@@ -45,3 +45,55 @@ nav {
   padding: 0px 10px;
   font-style: italic;
 }
+
+main {
+  margin: 64px auto;
+  padding: 0 48px;
+  max-width: 1400px;
+}
+
+.header-block {
+  border-bottom: solid black 3px;
+}
+.header-block > div {
+  font-style: bold;
+  font-size: 20px;
+}
+
+.latest {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 32px;
+  margin: 32px 0;
+}
+
+.latest img {
+  width: 100%;
+  display: block;
+}
+
+.latest a {
+  text-decoration: none;
+  color: black;
+}
+
+.latest .category {
+  font-style: italic;
+  margin-top: 16px;
+  display: block;
+  font-size: 18px;
+}
+
+.latest .excerpt {
+  margin-bottom: 16px;
+}
+
+.latest-top4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 32px;
+}
+
+.latest-top4 h2 {
+  font-size: 20px;
+}
