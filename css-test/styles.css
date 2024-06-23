@@ -1,0 +1,47 @@
+header {
+  background: black;
+}
+
+.social-icons {
+  display: flex;
+  padding-left: 0;
+}
+
+.social-icons svg {
+  fill: white;
+}
+
+.social-icons li {
+  list-style-type: none;
+  padding: 5px 0px 5px 10px;
+}
+
+.title-row {
+  display: flex;
+  justify-content: center;
+}
+
+.title-row h1 {
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  border-top: solid 1px #555;
+}
+
+.menu-items {
+  display: flex;
+}
+
+.menu-items li {
+  list-style-type: none;
+}
+
+.menu-items a {
+  color: white;
+  text-decoration: none;
+  padding: 0px 10px;
+  font-style: italic;
+}
