@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render test error 1`] = `
+<div
+  class="alert error"
+>
+  This is my message now
+</div>
+`;
+
+exports[`render test info 1`] = `
+<div
+  class="alert info"
+>
+  This is my message now
+</div>
+`;
+
+exports[`render test success 1`] = `
+<div
+  class="alert success"
+>
+  This is my message now
+</div>
+`;
+
+exports[`render test undefined 1`] = `
+<div
+  class="alert info"
+>
+  This is my message now
+</div>
+`;
+
+exports[`render test warning 1`] = `
+<div
+  class="alert warning"
+>
+  This is my message now
+</div>
+`;
