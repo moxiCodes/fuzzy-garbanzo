@@ -1,4 +1,4 @@
-import "./Alert.css";
+import styles from "./Alert.module.css";
 import classNames from "classnames";
 
 export type AlertType = "error" | "warning" | "info" | "success";
@@ -9,5 +9,5 @@ type AlertProps = {
 };
 
 export const Alert = ({ message, type = "info" }: AlertProps) => (
-  <div className={classNames("alert", type)}>{message}</div>
+  <div className={classNames(styles.alertage, styles[type])}>{message}</div>
 );

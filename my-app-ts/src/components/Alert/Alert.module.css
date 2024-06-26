@@ -4,18 +4,18 @@
   padding: 20px;
 }
 
-.alert.info {
+.info {
   background-color: lightblue;
 }
 
-.alert.error {
+.error {
   background-color: red;
 }
 
-.alert.warning {
+.warning {
   background-color: orange;
 }
 
-.alert.success {
+.success {
   background-color: lightgreen;
 }
