@@ -1,0 +1,32 @@
+.alert {
+  color: black;
+  border-radius: 8px;
+  padding: 20px 10px 20px 20px;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.alert svg {
+  width: 24px;
+  padding-left: 20px;
+}
+
+.close {
+  cursor: pointer;
+}
+
+.info {
+  background-color: lightblue;
+}
+
+.error {
+  background-color: red;
+}
+
+.warning {
+  background-color: orange;
+}
+
+.success {
+  background-color: lightgreen;
+}
