@@ -1,0 +1,14 @@
+.employeeBadge {
+  background-color: white;
+  text-align: left;
+  color: black;
+  padding: 20px;
+  display: flex;
+}
+
+.employeeBadge img {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  object-fit: contain;
+}
