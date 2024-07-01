@@ -1,1 +1,104 @@
-/* Help me - I need styles!! */
+body {
+  margin: 0;
+}
+
+header {
+  background-color: black;
+}
+
+.social-icons,
+.menu-items {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.social-icons > li,
+.menu-items > li {
+  list-style-type: none;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+
+.social-icons a {
+  fill: white;
+}
+
+.title-row {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.menu-items {
+  justify-content: center;
+  padding: 15px 0;
+  font-style: italic;
+  border-top: solid gray 1px;
+}
+
+.menu-items a {
+  text-decoration: none;
+  color: white;
+}
+
+main {
+  max-width: 1296px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0 48px;
+}
+
+.header-block {
+  margin-top: 48px;
+  font-weight: bold;
+  border-bottom: solid 3px black;
+}
+
+.block {
+  display: grid;
+  margin-top: 32px;
+}
+
+.block.latest {
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 32px;
+}
+
+.block img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: cover;
+}
+
+.block a {
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+.block .category {
+  margin: 10px 0;
+  font-style: italic;
+}
+.block .author {
+  color: gray;
+  margin: 10px 0;
+}
+
+.latest-summary {
+  display: grid;
+  grid-gap: 32px;
+}
+
+.latest-summary.square {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.latest-summary.line {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.latest-summary h2 {
+  font-size: 20px;
+}
