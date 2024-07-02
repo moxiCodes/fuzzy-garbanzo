@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders an employee badge 1`] = `
+<div>
+  <div
+    class="employeeBadge"
+  >
+    <img
+      alt="Duncan Edwards"
+      src="/images/images/duncan.jpg"
+    />
+    <div>
+      <h2>
+        Duncan
+         
+        Andrews
+         
+        Edwards
+      </h2>
+      <div>
+        Job Title2: 
+        Junior Developer
+      </div>
+      <div>
+        <a
+          href="mailto:duncan.edwards@lloydsbanking.com"
+        >
+          duncan.edwards@lloydsbanking.com
+        </a>
+      </div>
+      <div>
+        Cohort: 
+        12
+      </div>
+      <div>
+        Team: 
+        Client Servicing and Engagement
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Renders an employee badge 2`] = `
+<div>
+  <div
+    class="employeeBadge"
+  >
+    <img
+      alt="Joan Smith"
+      src="/images/images/joan.jpg"
+    />
+    <div>
+      <h2>
+        Joan
+         
+         
+        Smith
+      </h2>
+      <div>
+        Job Title2: 
+        Seniror Developer
+      </div>
+      <div>
+        <a
+          href="mailto:joan.smith@lloydsbanking.com"
+        >
+          joan.smith@lloydsbanking.com
+        </a>
+      </div>
+      <div>
+        Cohort: 
+        -
+      </div>
+      <div>
+        Team: 
+        Commercial Lending Platform
+      </div>
+    </div>
+  </div>
+</div>
+`;
