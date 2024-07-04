@@ -1,10 +1,10 @@
 import express from "express";
+import employees from "./employees.json";
 
 const app = express();
 const port = 4000;
 
 app.get("/players", async (req, res) => {
-  await sleep(1500);
   res.header("Access-Control-Allow-Origin", "*");
   res.send([
     {
@@ -40,6 +40,25 @@ app.get("/players", async (req, res) => {
       bowlingAverage: 37.31,
     },
   ]);
+});
+
+app.get("/employees", async (req, res) => {
+  await sleep(1000);
+  const search = req.query.search as string | undefined;
+
+  console.log("search", search);
+  res.header("Access-Control-Allow-Origin", "*");
+
+  res.send(
+    search
+      ? employees.filter(
+          (e) =>
+            e.firstName.includes(search) ||
+            e.surName.includes(search) ||
+            e.address.includes(search)
+        )
+      : employees
+  );
 });
 
 app.listen(port, () => {
