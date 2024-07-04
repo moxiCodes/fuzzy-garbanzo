@@ -1,19 +1,25 @@
 /* eslint-disable testing-library/no-debugging-utils */
 import { render, screen } from "@testing-library/react";
-import { MyComponent } from "./MyComponent";
+import { MyComponent, MyComponentProps } from "./MyComponent";
 
-test("Render a basic my component", () => {
-  const { container } = render(
-    <MyComponent
-      isEmployed={true}
-      location="Bristol"
-      name={{ firstName: "Duncan", lastName: "Edwards" }}
-    />
-  );
+const employees: MyComponentProps[] = [
+  {
+    name: { firstName: "Duncan", lastName: "Edwards" },
+    isEmployed: true,
+    location: "Bristol",
+  },
+  {
+    name: { firstName: "Jane", lastName: "Smith" },
+    isEmployed: false,
+    location: "London",
+  },
+];
 
-  expect(container).toMatchSnapshot();
+test.each<MyComponentProps>(employees)(
+  "Render a basic my component",
+  (employee) => {
+    const { container } = render(<MyComponent {...employee} />);
 
-  //   expect(screen.getByText("Duncan Edwards")).toBeInTheDocument();
-  //   expect(screen.getByText("Location: Bristol")).toBeInTheDocument();
-  //   expect(screen.getByText("IsEmployed: Yes!")).toBeInTheDocument();
-});
+    expect(container).toMatchSnapshot();
+  }
+);
