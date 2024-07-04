@@ -6,7 +6,7 @@ type Name = {
   lastName: string;
 };
 
-type MyComponentProps = {
+export type MyComponentProps = {
   name: Name;
   location: string;
   isEmployed: boolean;
