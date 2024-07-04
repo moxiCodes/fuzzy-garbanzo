@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render a basic my component 1`] = `
+<div>
+  <div>
+    Edwards, Duncan
+  </div>
+  <div>
+    Location: 
+    Bristol
+  </div>
+  <div>
+    IsEmployed?: 
+    Yes!
+  </div>
+</div>
+`;
