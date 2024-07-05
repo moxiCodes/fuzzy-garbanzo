@@ -48,9 +48,14 @@ app.get("/employees", async (req, res) => {
   const search = req.query.search as string | undefined;
   res.header("Access-Control-Allow-Origin", "*");
 
+  const employeesWithId = employees.map((employee, index) => ({
+    id: index + 1,
+    ...employee,
+  }));
+
   res.send(
     search
-      ? employees
+      ? employeesWithId
           .filter(
             (e) =>
               e.firstName.includes(search) ||
@@ -58,7 +63,7 @@ app.get("/employees", async (req, res) => {
               e.address.includes(search)
           )
           .slice(0, 10)
-      : employees.slice(0, 10)
+      : employeesWithId.slice(0, 10)
   );
 });
 
