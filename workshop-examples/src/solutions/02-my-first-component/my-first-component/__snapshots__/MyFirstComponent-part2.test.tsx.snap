@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing test with multiple messages (message=different!) 1`] = `
+<div>
+  <h2>
+    different!
+  </h2>
+</div>
+`;
+
+exports[`snapshot testing test with multiple messages (message=hello world!) 1`] = `
+<div>
+  <h2>
+    hello world!
+  </h2>
+</div>
+`;

@@ -17,3 +17,5 @@ How do you do an optional parameter in TS? Where does this optional parameter ha
 ### Extensions
 
 1. Create a version of getFullName that is passed a single object? What did you notice about this version? Did you prefer it? (There is an example of this in the solution)
+
+# Add two numbers - testing
