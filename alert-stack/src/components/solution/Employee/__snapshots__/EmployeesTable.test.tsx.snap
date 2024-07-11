@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With no employee data 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-11xur9t-MuiPaper-root-MuiTableContainer-root"
+  >
+    <table
+      aria-label="simple table"
+      class="MuiTable-root css-quj9j6-MuiTable-root"
+    >
+      <thead
+        class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+      >
+        <tr
+          class="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            First Name
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Last Name
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Company
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Email
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Phone
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Address
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Team
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      />
+    </table>
+  </div>
+</div>
+`;
+
+exports[`With some employee data 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-11xur9t-MuiPaper-root-MuiTableContainer-root"
+  >
+    <table
+      aria-label="simple table"
+      class="MuiTable-root css-quj9j6-MuiTable-root"
+    >
+      <thead
+        class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
+      >
+        <tr
+          class="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            First Name
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Last Name
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Company
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Email
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Phone
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Address
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Team
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="MuiTableBody-root css-apqrd9-MuiTableBody-root"
+      >
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            Carol
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            Pugh
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            PYRAMIS
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            carolpugh@pyramis.com
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            +1 (894) 469-2330
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            396 Gilmore Court, Edenburg, American Samoa, 4850
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            CL
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            Camacho
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            Abbott
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            NAXDIS
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            camachoabbott@naxdis.com
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            +1 (839) 473-3027
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            541 Bay Parkway, Hampstead, Massachusetts, 7398
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            CD&A
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            Cecilia
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            Herring
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            GEEKETRON
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            ceciliaherring@geeketron.com
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            +1 (866) 584-2623
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            625 Royce Place, Ticonderoga, Maryland, 3541
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1ex1afd-MuiTableCell-root"
+          >
+            CM&P
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
