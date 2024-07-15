@@ -1,0 +1,9002 @@
+[
+  {
+    "_id": "6690e34e7be438f9841d2aa1",
+    "isAlive": true,
+    "worth": 13.07,
+    "age": 4,
+    "name": "Kidd Macdonald",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eb81d830c932a726d",
+    "isAlive": false,
+    "worth": 43.9,
+    "age": 6,
+    "name": "Tina Delgado",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec5e044735b487bbd",
+    "isAlive": false,
+    "worth": 10.92,
+    "age": 1,
+    "name": "Beulah Terrell",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed5cafc030e1e05ac",
+    "isAlive": true,
+    "worth": 6.9,
+    "age": 1,
+    "name": "Melanie Juarez",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed6a746aef7b05ea6",
+    "isAlive": false,
+    "worth": 28.33,
+    "age": 9,
+    "name": "Weaver Sutton",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed8709ce32bfc54dc",
+    "isAlive": true,
+    "worth": 41.47,
+    "age": 9,
+    "name": "Sharlene Mccoy",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1ad2a3296e37955a",
+    "isAlive": false,
+    "worth": 45.37,
+    "age": 7,
+    "name": "Gilmore Mayer",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebac7912f1c276634",
+    "isAlive": false,
+    "worth": 49.16,
+    "age": 3,
+    "name": "Stacie Bright",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e587d497daa3839ba",
+    "isAlive": true,
+    "worth": 29.13,
+    "age": 10,
+    "name": "Jan Frank",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eaf0c5a38d0b6266b",
+    "isAlive": true,
+    "worth": 21.51,
+    "age": 6,
+    "name": "Maria Alston",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebf59ccf055192d37",
+    "isAlive": true,
+    "worth": 25.94,
+    "age": 1,
+    "name": "Morse Acevedo",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1b74ea997a70b018",
+    "isAlive": false,
+    "worth": 17.25,
+    "age": 7,
+    "name": "Petersen Mueller",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e40f8aa5ac6dcc86a",
+    "isAlive": false,
+    "worth": 23.45,
+    "age": 10,
+    "name": "Blankenship Savage",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecface7c4e8aa1bee",
+    "isAlive": true,
+    "worth": 30.69,
+    "age": 3,
+    "name": "Hood Snow",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e01afba2e27ac064f",
+    "isAlive": true,
+    "worth": 48.11,
+    "age": 5,
+    "name": "Flowers Branch",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea4d06b63170ecd24",
+    "isAlive": true,
+    "worth": 43.37,
+    "age": 10,
+    "name": "Spears Moore",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eab3e3b001e232cb8",
+    "isAlive": true,
+    "worth": 21.75,
+    "age": 1,
+    "name": "Michelle Dale",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7d182e7f7370a71f",
+    "isAlive": true,
+    "worth": 32.51,
+    "age": 4,
+    "name": "Mckay Mooney",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ece063192b6bcf8d7",
+    "isAlive": false,
+    "worth": 44.09,
+    "age": 5,
+    "name": "Lidia Hardy",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7c85da2c059b255b",
+    "isAlive": false,
+    "worth": 30.44,
+    "age": 10,
+    "name": "Ortiz Winters",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e34dca80301a16c72",
+    "isAlive": false,
+    "worth": 14.69,
+    "age": 2,
+    "name": "Helga Larson",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef4d4b8f9a53d028a",
+    "isAlive": true,
+    "worth": 5.93,
+    "age": 7,
+    "name": "Neva Flores",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec77873fa78930767",
+    "isAlive": true,
+    "worth": 36.1,
+    "age": 3,
+    "name": "Jerri Woodward",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec25271a97693aeba",
+    "isAlive": true,
+    "worth": 48.89,
+    "age": 8,
+    "name": "Grace Finley",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb2c474a09029ccf9",
+    "isAlive": true,
+    "worth": 42.74,
+    "age": 3,
+    "name": "Alta Horton",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed54716e9108cb30c",
+    "isAlive": false,
+    "worth": 16.33,
+    "age": 9,
+    "name": "Kathryn Justice",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ece03113df5c59a27",
+    "isAlive": true,
+    "worth": 15.33,
+    "age": 1,
+    "name": "Lourdes Schroeder",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eeedce0f5e0338d4f",
+    "isAlive": false,
+    "worth": 39.18,
+    "age": 1,
+    "name": "Natalia Farmer",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eccfb46cdde3f2dc3",
+    "isAlive": false,
+    "worth": 22.6,
+    "age": 10,
+    "name": "Guadalupe Valentine",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4d2be9726122866b",
+    "isAlive": true,
+    "worth": 30.54,
+    "age": 9,
+    "name": "Bryan Stephenson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ecce2caa6a0d89155",
+    "isAlive": false,
+    "worth": 38.09,
+    "age": 9,
+    "name": "Thelma Rowe",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6c76e12ffa10add4",
+    "isAlive": true,
+    "worth": 20.24,
+    "age": 8,
+    "name": "Griffin Fernandez",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e05acd42ec975bfad",
+    "isAlive": true,
+    "worth": 29.51,
+    "age": 8,
+    "name": "Bradford Shields",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee087b6503c1f54a1",
+    "isAlive": true,
+    "worth": 49.2,
+    "age": 10,
+    "name": "Vaughan Livingston",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7027f3b3640760e5",
+    "isAlive": false,
+    "worth": 36.85,
+    "age": 9,
+    "name": "Waller Meadows",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea21588d171570e97",
+    "isAlive": true,
+    "worth": 25.28,
+    "age": 7,
+    "name": "Jayne Zamora",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec6540b2191425fdc",
+    "isAlive": true,
+    "worth": 17.97,
+    "age": 5,
+    "name": "Fernandez Leon",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8b4a1976d16a91b5",
+    "isAlive": false,
+    "worth": 6.97,
+    "age": 10,
+    "name": "Durham Castro",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef47912888f1abe63",
+    "isAlive": true,
+    "worth": 12.43,
+    "age": 8,
+    "name": "Kitty Hogan",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e58c1fae462747a7d",
+    "isAlive": true,
+    "worth": 6.95,
+    "age": 2,
+    "name": "Patrick Lang",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ef997e329cebc3e06",
+    "isAlive": false,
+    "worth": 45.91,
+    "age": 2,
+    "name": "Leblanc Copeland",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eac3f3455826f5448",
+    "isAlive": true,
+    "worth": 38.67,
+    "age": 1,
+    "name": "Beverly Briggs",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34efb12ba199c1897ce",
+    "isAlive": true,
+    "worth": 15.75,
+    "age": 4,
+    "name": "Flora Barnett",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e91358dc3101a0300",
+    "isAlive": true,
+    "worth": 45.44,
+    "age": 10,
+    "name": "Sally Nicholson",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e27931effb0deea53",
+    "isAlive": true,
+    "worth": 5.76,
+    "age": 1,
+    "name": "Ursula Alexander",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef2dad2361d680cac",
+    "isAlive": true,
+    "worth": 48.58,
+    "age": 10,
+    "name": "Joann Grimes",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e5e50daaad5d34079",
+    "isAlive": false,
+    "worth": 18.52,
+    "age": 5,
+    "name": "Edwina Leonard",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb7cd8a8a5492fb72",
+    "isAlive": true,
+    "worth": 19.8,
+    "age": 1,
+    "name": "Avery Wilson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee098c799309a8f7e",
+    "isAlive": false,
+    "worth": 11.73,
+    "age": 4,
+    "name": "Latonya Medina",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eba144a45d4b46935",
+    "isAlive": false,
+    "worth": 42.28,
+    "age": 9,
+    "name": "Castillo Whitfield",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e92d7cdebd70eee4b",
+    "isAlive": true,
+    "worth": 35.59,
+    "age": 9,
+    "name": "Irwin Stanley",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e67ae12a5f49b743a",
+    "isAlive": true,
+    "worth": 27.3,
+    "age": 6,
+    "name": "Berta Jacobson",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e093df82e60b3e398",
+    "isAlive": false,
+    "worth": 44.47,
+    "age": 8,
+    "name": "Rush Hopkins",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e3e7f120fa9704b97",
+    "isAlive": false,
+    "worth": 42.12,
+    "age": 1,
+    "name": "Malone Mccormick",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e10f376b487a6c355",
+    "isAlive": false,
+    "worth": 31.32,
+    "age": 10,
+    "name": "Jeannine Bass",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e5c303659b87334ad",
+    "isAlive": true,
+    "worth": 46.64,
+    "age": 3,
+    "name": "Margery Calderon",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e3c152f6d88eee863",
+    "isAlive": false,
+    "worth": 10.38,
+    "age": 6,
+    "name": "Katrina Stewart",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec73850894f82571a",
+    "isAlive": true,
+    "worth": 8.87,
+    "age": 1,
+    "name": "Hudson Boyle",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ebfab799b835764a4",
+    "isAlive": true,
+    "worth": 46.76,
+    "age": 5,
+    "name": "Chandra Mcintosh",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecb8311119922ff72",
+    "isAlive": true,
+    "worth": 13.67,
+    "age": 6,
+    "name": "Shaffer Barton",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5ae13d24f3c32cfd",
+    "isAlive": false,
+    "worth": 41.64,
+    "age": 6,
+    "name": "Raquel Navarro",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed1cc04e1d88a019b",
+    "isAlive": true,
+    "worth": 44.42,
+    "age": 9,
+    "name": "Carey Osborn",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7fbc3d82905a246a",
+    "isAlive": false,
+    "worth": 9.11,
+    "age": 9,
+    "name": "Mcdowell Snyder",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3ed8430c7d7aaad6",
+    "isAlive": true,
+    "worth": 49.45,
+    "age": 10,
+    "name": "Beverley Barlow",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e786ccf9ae2e7147d",
+    "isAlive": false,
+    "worth": 8,
+    "age": 5,
+    "name": "Aisha Kline",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eeb626e1d2404cae1",
+    "isAlive": true,
+    "worth": 14.78,
+    "age": 6,
+    "name": "Nannie Brown",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34efedbd87d3edace3c",
+    "isAlive": true,
+    "worth": 6.27,
+    "age": 3,
+    "name": "Nixon Serrano",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e2b1f1592b9a1fec9",
+    "isAlive": false,
+    "worth": 25.75,
+    "age": 2,
+    "name": "Annmarie Hunt",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eef7bdafc2401ab44",
+    "isAlive": true,
+    "worth": 13.74,
+    "age": 6,
+    "name": "Morin Roman",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8d34b4631a72d923",
+    "isAlive": true,
+    "worth": 32.64,
+    "age": 7,
+    "name": "Noel Cain",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8fa96dd7c771c004",
+    "isAlive": false,
+    "worth": 5.75,
+    "age": 1,
+    "name": "Elisa Austin",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef376ddf1c6708d1e",
+    "isAlive": false,
+    "worth": 9.12,
+    "age": 8,
+    "name": "Lou Jordan",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6520af19fe84ef52",
+    "isAlive": false,
+    "worth": 19.75,
+    "age": 10,
+    "name": "Donna Nixon",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e66153ba69ab63685",
+    "isAlive": false,
+    "worth": 47.04,
+    "age": 4,
+    "name": "Bowen Yang",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0f43c4b8cce93c51",
+    "isAlive": false,
+    "worth": 43.7,
+    "age": 3,
+    "name": "Myers Clark",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e95fbdcb5eca11137",
+    "isAlive": false,
+    "worth": 45.05,
+    "age": 10,
+    "name": "Payne Leach",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e147fb8ef5be62f3a",
+    "isAlive": true,
+    "worth": 29.95,
+    "age": 4,
+    "name": "Nancy Kaufman",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7026a9b99d2c12cb",
+    "isAlive": true,
+    "worth": 27.45,
+    "age": 3,
+    "name": "Jacobs Pruitt",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e27238819e4131852",
+    "isAlive": false,
+    "worth": 45.47,
+    "age": 10,
+    "name": "Rios Wall",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee848113418c3f7a6",
+    "isAlive": false,
+    "worth": 31.85,
+    "age": 6,
+    "name": "Amalia Pollard",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0de5de270c1a80a4",
+    "isAlive": false,
+    "worth": 33.11,
+    "age": 7,
+    "name": "Ratliff Burke",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e95b0f42c92562b9d",
+    "isAlive": false,
+    "worth": 10.59,
+    "age": 3,
+    "name": "Earnestine Norman",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ea3bc0e45cbc66e0a",
+    "isAlive": true,
+    "worth": 18.43,
+    "age": 3,
+    "name": "Case Sims",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e468e6faad48781a1",
+    "isAlive": true,
+    "worth": 40.39,
+    "age": 6,
+    "name": "Sparks Trevino",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e478f44d2fe4826ce",
+    "isAlive": true,
+    "worth": 22.92,
+    "age": 10,
+    "name": "Rosales Kemp",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ebc4d94e5bacf3275",
+    "isAlive": true,
+    "worth": 9.72,
+    "age": 9,
+    "name": "Sue Huber",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e26bcd53fe045d98d",
+    "isAlive": true,
+    "worth": 33.41,
+    "age": 7,
+    "name": "Eva French",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e32a2bb9374763bcf",
+    "isAlive": true,
+    "worth": 39.5,
+    "age": 6,
+    "name": "Dawn Barnes",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e2d03d0b299fa6b5b",
+    "isAlive": true,
+    "worth": 36.18,
+    "age": 5,
+    "name": "Mary Bradley",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e1e6a777e1b87987a",
+    "isAlive": true,
+    "worth": 45.03,
+    "age": 9,
+    "name": "Maynard Joyner",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ebd4d296da70607a1",
+    "isAlive": false,
+    "worth": 32.39,
+    "age": 1,
+    "name": "Kelsey Gardner",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e8738dd69eca89eb9",
+    "isAlive": true,
+    "worth": 30.53,
+    "age": 2,
+    "name": "Kara Barrett",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e932d897111b2ace5",
+    "isAlive": false,
+    "worth": 13.66,
+    "age": 2,
+    "name": "Freda Jones",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34efdf2964d4f1656e2",
+    "isAlive": true,
+    "worth": 21.72,
+    "age": 9,
+    "name": "Livingston Mcdowell",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e833ca58c9a04d830",
+    "isAlive": true,
+    "worth": 9.09,
+    "age": 3,
+    "name": "Rene Mcleod",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e293a6a2cad29651d",
+    "isAlive": false,
+    "worth": 16.92,
+    "age": 2,
+    "name": "Nadine Young",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e74ec599b594591b3",
+    "isAlive": false,
+    "worth": 48.13,
+    "age": 9,
+    "name": "Enid Horn",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8e6d23595a9423aa",
+    "isAlive": true,
+    "worth": 45.24,
+    "age": 6,
+    "name": "Henderson Golden",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed21e0bd879f893f2",
+    "isAlive": true,
+    "worth": 38.02,
+    "age": 9,
+    "name": "Sandra Shelton",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea490bd06c9dc8bb8",
+    "isAlive": false,
+    "worth": 27.59,
+    "age": 5,
+    "name": "Short Pitts",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed8b04fab8b6cd3dd",
+    "isAlive": true,
+    "worth": 32.83,
+    "age": 4,
+    "name": "Chavez Spears",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebba3beaeff240002",
+    "isAlive": false,
+    "worth": 9.79,
+    "age": 8,
+    "name": "Simpson Mccarty",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebbc779573d60f2ff",
+    "isAlive": true,
+    "worth": 47.86,
+    "age": 1,
+    "name": "Caroline Miranda",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e961da92fa31afee4",
+    "isAlive": false,
+    "worth": 13.03,
+    "age": 3,
+    "name": "Antoinette Hurst",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e9b15c994bb7eab35",
+    "isAlive": true,
+    "worth": 49.38,
+    "age": 6,
+    "name": "Rosanne Howard",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e11296b960777a744",
+    "isAlive": false,
+    "worth": 25.43,
+    "age": 3,
+    "name": "Alissa Bond",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e7231f1ef85d6f85a",
+    "isAlive": false,
+    "worth": 24.63,
+    "age": 1,
+    "name": "Klein Burton",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e750db523d443dbfb",
+    "isAlive": true,
+    "worth": 21.44,
+    "age": 9,
+    "name": "Buck Mills",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9101ba85bac8e260",
+    "isAlive": true,
+    "worth": 41.58,
+    "age": 3,
+    "name": "Murphy Gonzalez",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6fdc4ca725cbe8d2",
+    "isAlive": false,
+    "worth": 5.03,
+    "age": 3,
+    "name": "Hebert Sargent",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e70471a290b42c8ff",
+    "isAlive": false,
+    "worth": 23.45,
+    "age": 7,
+    "name": "Bentley Sanders",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e55041438a36adde8",
+    "isAlive": false,
+    "worth": 46.73,
+    "age": 7,
+    "name": "Twila Clements",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e310ed8569a8312b9",
+    "isAlive": false,
+    "worth": 10.02,
+    "age": 5,
+    "name": "Charles Nielsen",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb3f7816ada9d05f1",
+    "isAlive": true,
+    "worth": 37.85,
+    "age": 6,
+    "name": "Dudley Mcknight",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8be303cc2e225ae3",
+    "isAlive": false,
+    "worth": 27.24,
+    "age": 2,
+    "name": "Hutchinson Holmes",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3b54c4fdbf1a7e76",
+    "isAlive": true,
+    "worth": 7.14,
+    "age": 6,
+    "name": "Rasmussen Montoya",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0d3a0786be2e1d62",
+    "isAlive": false,
+    "worth": 8.36,
+    "age": 10,
+    "name": "Greene Lancaster",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e355a3e6e4c073119",
+    "isAlive": true,
+    "worth": 40.29,
+    "age": 3,
+    "name": "Tammie Gallegos",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec90f58a998b67a07",
+    "isAlive": false,
+    "worth": 48.29,
+    "age": 5,
+    "name": "Young Todd",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edada56c05d57ca44",
+    "isAlive": true,
+    "worth": 36.47,
+    "age": 6,
+    "name": "Bean Molina",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e23e226b82181d019",
+    "isAlive": true,
+    "worth": 16.33,
+    "age": 3,
+    "name": "Brooks Sears",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34edee3b88fcbbee452",
+    "isAlive": true,
+    "worth": 46.78,
+    "age": 8,
+    "name": "Shawna Castaneda",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e2472aea781424bf6",
+    "isAlive": true,
+    "worth": 9.84,
+    "age": 9,
+    "name": "Day Reeves",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e3bd54a335075b943",
+    "isAlive": true,
+    "worth": 24.19,
+    "age": 6,
+    "name": "Sophia Knowles",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec22e025de2fcdf70",
+    "isAlive": true,
+    "worth": 25.7,
+    "age": 4,
+    "name": "Alvarado Garrett",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef395d03fd84ea01d",
+    "isAlive": false,
+    "worth": 16.07,
+    "age": 4,
+    "name": "Campos Charles",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34edcecfa9f735d3062",
+    "isAlive": true,
+    "worth": 28.81,
+    "age": 10,
+    "name": "Cooke Gregory",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ebc4291d75850b660",
+    "isAlive": true,
+    "worth": 45.6,
+    "age": 5,
+    "name": "Mays Hayes",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0b28562431c270c9",
+    "isAlive": false,
+    "worth": 33.57,
+    "age": 4,
+    "name": "Harrell Sweet",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed8ecf85356829050",
+    "isAlive": true,
+    "worth": 36.35,
+    "age": 6,
+    "name": "Gabrielle Love",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea1cfec87607f0b94",
+    "isAlive": true,
+    "worth": 42.85,
+    "age": 5,
+    "name": "Crystal Dixon",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eeb00487b0d3a7be0",
+    "isAlive": false,
+    "worth": 42.36,
+    "age": 9,
+    "name": "Katina Hartman",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e5ce827d0e3d517c6",
+    "isAlive": false,
+    "worth": 9.95,
+    "age": 4,
+    "name": "Henry Klein",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec4d4a17d18311830",
+    "isAlive": false,
+    "worth": 13.24,
+    "age": 4,
+    "name": "Strong Erickson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7fbb0f5534d3ebc2",
+    "isAlive": false,
+    "worth": 44.98,
+    "age": 2,
+    "name": "Joseph Beard",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e528f877e3afe707e",
+    "isAlive": true,
+    "worth": 5.45,
+    "age": 8,
+    "name": "Magdalena Harris",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e04b1d511b4dfb8a1",
+    "isAlive": false,
+    "worth": 25.02,
+    "age": 6,
+    "name": "Tasha Haynes",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e72a15911cfdd1841",
+    "isAlive": false,
+    "worth": 10.28,
+    "age": 8,
+    "name": "Simone Nichols",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecb003d28be6d94eb",
+    "isAlive": true,
+    "worth": 48.69,
+    "age": 2,
+    "name": "Manning Robles",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e85912a78a6be3c4f",
+    "isAlive": false,
+    "worth": 17.59,
+    "age": 6,
+    "name": "Christine Cobb",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed9380153dc4218c6",
+    "isAlive": true,
+    "worth": 6.01,
+    "age": 9,
+    "name": "Galloway Barrera",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef295a42b6c6e2e2d",
+    "isAlive": true,
+    "worth": 24.54,
+    "age": 10,
+    "name": "Robinson Harmon",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e4e6f119f70010d98",
+    "isAlive": true,
+    "worth": 6.53,
+    "age": 4,
+    "name": "Deana Hancock",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e25dc0063d833dc7e",
+    "isAlive": true,
+    "worth": 47.27,
+    "age": 5,
+    "name": "Lacy Little",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e0c4ddb0ff44cc237",
+    "isAlive": false,
+    "worth": 47.56,
+    "age": 6,
+    "name": "Delgado Guthrie",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e4c3adb8d50bf7162",
+    "isAlive": true,
+    "worth": 36.57,
+    "age": 2,
+    "name": "Pace Wiggins",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e6f661b9030bf6e34",
+    "isAlive": false,
+    "worth": 47.95,
+    "age": 5,
+    "name": "Christi Murphy",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef2e4883bf6571182",
+    "isAlive": true,
+    "worth": 36.76,
+    "age": 1,
+    "name": "Karina Gross",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6465e01719b7739d",
+    "isAlive": true,
+    "worth": 42.14,
+    "age": 9,
+    "name": "Jolene Gibson",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e28bf2f388054dd31",
+    "isAlive": true,
+    "worth": 31.48,
+    "age": 9,
+    "name": "Vivian Peters",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e67148f81ebcef24b",
+    "isAlive": true,
+    "worth": 34.13,
+    "age": 5,
+    "name": "Conrad Eaton",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6899015a06d21cac",
+    "isAlive": true,
+    "worth": 23.99,
+    "age": 3,
+    "name": "Morris Lee",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea176261881178395",
+    "isAlive": true,
+    "worth": 21.16,
+    "age": 7,
+    "name": "Howe Bradshaw",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6f0227c0f29dde17",
+    "isAlive": true,
+    "worth": 34.57,
+    "age": 7,
+    "name": "Audrey Houston",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee76dbb4088e5f48f",
+    "isAlive": true,
+    "worth": 42.16,
+    "age": 9,
+    "name": "Sharon Pate",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e62105fe43d3e09a2",
+    "isAlive": false,
+    "worth": 10.88,
+    "age": 6,
+    "name": "Caldwell Decker",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e45d5cc7e6ffdb815",
+    "isAlive": false,
+    "worth": 45.06,
+    "age": 6,
+    "name": "Francisca Stout",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3881511c4f03cde2",
+    "isAlive": false,
+    "worth": 44.88,
+    "age": 10,
+    "name": "Hamilton Lara",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e157a7b36fe95139c",
+    "isAlive": true,
+    "worth": 40.9,
+    "age": 6,
+    "name": "Stacy Chavez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eec01c455e771d16c",
+    "isAlive": false,
+    "worth": 47.63,
+    "age": 4,
+    "name": "Cummings Francis",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e0fe12b91da5cc0b8",
+    "isAlive": false,
+    "worth": 28.36,
+    "age": 10,
+    "name": "Lyons Mathis",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e9689ff5910fa39e7",
+    "isAlive": true,
+    "worth": 37.01,
+    "age": 1,
+    "name": "Jeri Harvey",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef8fb204c28deb6c3",
+    "isAlive": false,
+    "worth": 10.41,
+    "age": 1,
+    "name": "Cote Vance",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e88e1caa29f3df9a7",
+    "isAlive": true,
+    "worth": 7.35,
+    "age": 6,
+    "name": "Helen Leblanc",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4f9851a95da3d207",
+    "isAlive": true,
+    "worth": 21.04,
+    "age": 9,
+    "name": "Kim Thompson",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e972cc218d85334d6",
+    "isAlive": true,
+    "worth": 17.46,
+    "age": 6,
+    "name": "Valarie Brock",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ecc49ad9b489faf6c",
+    "isAlive": true,
+    "worth": 46.32,
+    "age": 10,
+    "name": "Hunt Chase",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed296374832982263",
+    "isAlive": false,
+    "worth": 7.81,
+    "age": 2,
+    "name": "Sykes Sosa",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5e81d5ff452376d3",
+    "isAlive": false,
+    "worth": 37.7,
+    "age": 2,
+    "name": "Michael Dickerson",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e3f0e86fc31d0d17c",
+    "isAlive": false,
+    "worth": 23.46,
+    "age": 4,
+    "name": "Mckee Cantu",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb91834ddb51af58c",
+    "isAlive": true,
+    "worth": 48.15,
+    "age": 5,
+    "name": "Bennett Marshall",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea5b7bccdc4e8d500",
+    "isAlive": true,
+    "worth": 20.03,
+    "age": 6,
+    "name": "Estella Cote",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34efe0f16751e446c2c",
+    "isAlive": false,
+    "worth": 26.75,
+    "age": 9,
+    "name": "Christina Chang",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec9d9e8b1ada19f94",
+    "isAlive": true,
+    "worth": 45.58,
+    "age": 9,
+    "name": "Malinda Richardson",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e3030468ea584c757",
+    "isAlive": false,
+    "worth": 5.08,
+    "age": 2,
+    "name": "Kris Oconnor",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eda81588f82660381",
+    "isAlive": true,
+    "worth": 5.81,
+    "age": 1,
+    "name": "Mejia Crosby",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e56dac1e656c2f67e",
+    "isAlive": true,
+    "worth": 17.5,
+    "age": 6,
+    "name": "Cash Simon",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee5755e51278e4efc",
+    "isAlive": true,
+    "worth": 14.67,
+    "age": 10,
+    "name": "Laurie Padilla",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee3ad958a7782652d",
+    "isAlive": true,
+    "worth": 27.03,
+    "age": 9,
+    "name": "Benson Becker",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e9412ca9910836177",
+    "isAlive": false,
+    "worth": 27.8,
+    "age": 4,
+    "name": "Helena Rodriquez",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34edb9a9f31f991c425",
+    "isAlive": true,
+    "worth": 36.36,
+    "age": 1,
+    "name": "Haley Larsen",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7ab1e3565238d03b",
+    "isAlive": false,
+    "worth": 16.86,
+    "age": 2,
+    "name": "Jensen Mcmillan",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e550ad2d6b0701832",
+    "isAlive": true,
+    "worth": 33.02,
+    "age": 6,
+    "name": "Cruz Ramsey",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ea4ed9cb003592233",
+    "isAlive": true,
+    "worth": 35,
+    "age": 2,
+    "name": "Carol Gentry",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1810dcbc5fa9f4ac",
+    "isAlive": true,
+    "worth": 21.64,
+    "age": 3,
+    "name": "Watts Blankenship",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e180a4aad144cc888",
+    "isAlive": false,
+    "worth": 42.69,
+    "age": 5,
+    "name": "Manuela Gill",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec23c78b8c3e3e0f5",
+    "isAlive": false,
+    "worth": 45.14,
+    "age": 10,
+    "name": "Sampson Potts",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee63c87b1742753ed",
+    "isAlive": false,
+    "worth": 33.48,
+    "age": 7,
+    "name": "Carroll Burris",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ea2fe77207db5847f",
+    "isAlive": true,
+    "worth": 22.82,
+    "age": 5,
+    "name": "Patty Callahan",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee8c6c76119250917",
+    "isAlive": false,
+    "worth": 33.84,
+    "age": 3,
+    "name": "Snider Hill",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed197346bcb256f24",
+    "isAlive": true,
+    "worth": 24.47,
+    "age": 9,
+    "name": "Blair Henson",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e13e27734053d3ba1",
+    "isAlive": true,
+    "worth": 39.17,
+    "age": 7,
+    "name": "Carissa Franklin",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e0c3ba44711fb57ee",
+    "isAlive": false,
+    "worth": 41.44,
+    "age": 5,
+    "name": "Shepherd Giles",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec5629facc3ac7115",
+    "isAlive": false,
+    "worth": 26.83,
+    "age": 2,
+    "name": "Kendra Buck",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1e092947e622f29c",
+    "isAlive": true,
+    "worth": 32.84,
+    "age": 3,
+    "name": "Kristen Lucas",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec9d9216652c0db0c",
+    "isAlive": true,
+    "worth": 43.29,
+    "age": 3,
+    "name": "Duke Keith",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eff787c6aa29ba5e2",
+    "isAlive": false,
+    "worth": 30.93,
+    "age": 9,
+    "name": "Burton Ortega",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e35ed09c0504d6591",
+    "isAlive": false,
+    "worth": 26.14,
+    "age": 2,
+    "name": "Potts Hamilton",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7e3f46cdfdaa3b3b",
+    "isAlive": true,
+    "worth": 5.7,
+    "age": 3,
+    "name": "May Goodwin",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34efcfe84953a943ba7",
+    "isAlive": true,
+    "worth": 29.24,
+    "age": 3,
+    "name": "Ines Short",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e3d2f07119adb01d3",
+    "isAlive": false,
+    "worth": 13.49,
+    "age": 3,
+    "name": "Theresa Deleon",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1144a45ae23c3d57",
+    "isAlive": false,
+    "worth": 40.14,
+    "age": 10,
+    "name": "Hernandez Silva",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef0a7eeb5bd2ad8b9",
+    "isAlive": false,
+    "worth": 38.12,
+    "age": 7,
+    "name": "Johns Page",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef3a9e70ec2911842",
+    "isAlive": false,
+    "worth": 17.78,
+    "age": 10,
+    "name": "Yates Santos",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e024e0d72594791eb",
+    "isAlive": true,
+    "worth": 17.6,
+    "age": 7,
+    "name": "Emilia Singleton",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec26252c2f06d8b09",
+    "isAlive": true,
+    "worth": 48.74,
+    "age": 2,
+    "name": "Emma Shepherd",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec25518514d1e8090",
+    "isAlive": false,
+    "worth": 39.02,
+    "age": 4,
+    "name": "Goldie Hayden",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e4da4ae31f3f56076",
+    "isAlive": false,
+    "worth": 40.82,
+    "age": 8,
+    "name": "Hardin Jefferson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e6b7754f9ea03a283",
+    "isAlive": false,
+    "worth": 26.23,
+    "age": 9,
+    "name": "Maryann Morgan",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7f70da71836c97d7",
+    "isAlive": false,
+    "worth": 9.28,
+    "age": 4,
+    "name": "Polly Byers",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3f70457e650458cf",
+    "isAlive": false,
+    "worth": 45.68,
+    "age": 9,
+    "name": "Hammond Fitzpatrick",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e61b185db3445bb60",
+    "isAlive": false,
+    "worth": 35.24,
+    "age": 2,
+    "name": "Barr Sanchez",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e79659109743aefe2",
+    "isAlive": true,
+    "worth": 49.24,
+    "age": 6,
+    "name": "Talley Donaldson",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e41a9ec83dec59cbf",
+    "isAlive": false,
+    "worth": 38.87,
+    "age": 10,
+    "name": "Benton Wooten",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea41a1c21ce874393",
+    "isAlive": true,
+    "worth": 16.34,
+    "age": 1,
+    "name": "Larson Villarreal",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee2976a18337479d5",
+    "isAlive": true,
+    "worth": 41.11,
+    "age": 3,
+    "name": "Eunice Caldwell",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec210b0ca3ae50859",
+    "isAlive": false,
+    "worth": 29.35,
+    "age": 9,
+    "name": "Rosemarie Delaney",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34efd7f636568133a05",
+    "isAlive": false,
+    "worth": 25.85,
+    "age": 4,
+    "name": "Farrell Meyers",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3c3bc427b2d14b6d",
+    "isAlive": false,
+    "worth": 5.24,
+    "age": 8,
+    "name": "Hale Roberson",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e1b8c5c76834e4c6b",
+    "isAlive": true,
+    "worth": 34.89,
+    "age": 5,
+    "name": "Kari Stephens",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e43470337a848e1ea",
+    "isAlive": false,
+    "worth": 18.04,
+    "age": 10,
+    "name": "Moses Hubbard",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e69fc781782e98a4d",
+    "isAlive": true,
+    "worth": 18.37,
+    "age": 10,
+    "name": "Sharpe Carpenter",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1f15f363892362c7",
+    "isAlive": false,
+    "worth": 12.71,
+    "age": 3,
+    "name": "Valencia Hanson",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e5cd016bb061a22c2",
+    "isAlive": true,
+    "worth": 43.03,
+    "age": 3,
+    "name": "Adkins Hansen",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e8e5e218fcd1d6061",
+    "isAlive": false,
+    "worth": 17.28,
+    "age": 10,
+    "name": "Michael Hatfield",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e2a8289d46e4678e9",
+    "isAlive": true,
+    "worth": 44.6,
+    "age": 10,
+    "name": "Wall Gilliam",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef0092211b4b5cbb6",
+    "isAlive": false,
+    "worth": 49.46,
+    "age": 8,
+    "name": "Randolph Roach",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6349889106b60272",
+    "isAlive": true,
+    "worth": 31.06,
+    "age": 4,
+    "name": "Luisa Horne",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3c5a5f512aecb029",
+    "isAlive": false,
+    "worth": 16.34,
+    "age": 5,
+    "name": "Barrett Reid",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edd27f92e5f198bee",
+    "isAlive": true,
+    "worth": 38.43,
+    "age": 10,
+    "name": "Pollard Hopper",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb1f84500ed33384c",
+    "isAlive": true,
+    "worth": 45.78,
+    "age": 9,
+    "name": "Beck Ramirez",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eb5f6a026aac20e5a",
+    "isAlive": true,
+    "worth": 31.1,
+    "age": 3,
+    "name": "Hallie Kinney",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e57118a4c30d2cf56",
+    "isAlive": true,
+    "worth": 13.89,
+    "age": 8,
+    "name": "Lea Rollins",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eb0220f1131a9593e",
+    "isAlive": false,
+    "worth": 29.42,
+    "age": 4,
+    "name": "Regina Sellers",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed775820a74d193a5",
+    "isAlive": true,
+    "worth": 23.72,
+    "age": 10,
+    "name": "Cardenas Whitney",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3640082e9f4528f5",
+    "isAlive": false,
+    "worth": 5.53,
+    "age": 10,
+    "name": "Puckett Berg",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e46e5b318e6b5b66e",
+    "isAlive": true,
+    "worth": 18.61,
+    "age": 3,
+    "name": "Burnett Raymond",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6b9da273c3c96003",
+    "isAlive": true,
+    "worth": 32.89,
+    "age": 1,
+    "name": "Berg Reilly",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e81d2de09713da729",
+    "isAlive": false,
+    "worth": 30.1,
+    "age": 7,
+    "name": "Cunningham Wise",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e82b00840d9e68b96",
+    "isAlive": false,
+    "worth": 44.24,
+    "age": 4,
+    "name": "Catherine Barry",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebb0138d63e9f7406",
+    "isAlive": false,
+    "worth": 27.91,
+    "age": 2,
+    "name": "Montoya Valenzuela",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebd7f6c663c54c0c6",
+    "isAlive": true,
+    "worth": 44.27,
+    "age": 4,
+    "name": "Mills Wong",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec7255991d1999a3a",
+    "isAlive": false,
+    "worth": 43.13,
+    "age": 4,
+    "name": "Cristina Morin",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e53970a30f6a5d4db",
+    "isAlive": true,
+    "worth": 41.01,
+    "age": 1,
+    "name": "Dunlap Mcneil",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec11ace09db300514",
+    "isAlive": false,
+    "worth": 7.88,
+    "age": 1,
+    "name": "Navarro Black",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e71f909548e80a976",
+    "isAlive": true,
+    "worth": 17.95,
+    "age": 6,
+    "name": "Mcconnell Mann",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6e10de3680a7a98c",
+    "isAlive": false,
+    "worth": 41.66,
+    "age": 8,
+    "name": "Natalie Oliver",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8b6359aaa55126dd",
+    "isAlive": false,
+    "worth": 47.47,
+    "age": 2,
+    "name": "Mara Merrill",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e00cdafecc3eae400",
+    "isAlive": false,
+    "worth": 9.16,
+    "age": 10,
+    "name": "Maryellen Kirkland",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef2e74911605c6fa2",
+    "isAlive": false,
+    "worth": 16.25,
+    "age": 4,
+    "name": "Summer Cruz",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ecf1a8697c41aff5f",
+    "isAlive": true,
+    "worth": 5.85,
+    "age": 2,
+    "name": "Cherie Dudley",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8fa16fe9c15c7178",
+    "isAlive": true,
+    "worth": 18.86,
+    "age": 5,
+    "name": "Greta Shannon",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9efb02f35d4ea1d1",
+    "isAlive": false,
+    "worth": 49.75,
+    "age": 7,
+    "name": "Leola Baxter",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb29e3312ea62ace4",
+    "isAlive": true,
+    "worth": 12.1,
+    "age": 3,
+    "name": "Meyer Chapman",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e07761268270dab85",
+    "isAlive": true,
+    "worth": 7.89,
+    "age": 8,
+    "name": "Fischer Adams",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecadf539d7c02c0d6",
+    "isAlive": true,
+    "worth": 35.35,
+    "age": 2,
+    "name": "Loretta Perkins",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6b9faba3dc461d9d",
+    "isAlive": false,
+    "worth": 48.12,
+    "age": 7,
+    "name": "Duran Booth",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec67bd6c13b960059",
+    "isAlive": true,
+    "worth": 5.4,
+    "age": 3,
+    "name": "Corina Stuart",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e9f1ac47835cc8d6f",
+    "isAlive": true,
+    "worth": 41.07,
+    "age": 8,
+    "name": "Jacklyn Ferguson",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e528d2f77014898c2",
+    "isAlive": true,
+    "worth": 11.06,
+    "age": 6,
+    "name": "Deleon Zimmerman",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e69efa00e44cea59a",
+    "isAlive": true,
+    "worth": 40.2,
+    "age": 2,
+    "name": "King Dodson",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e16e05c064bb68270",
+    "isAlive": false,
+    "worth": 23.51,
+    "age": 3,
+    "name": "Carson Cook",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4fc74e4ce7e7830b",
+    "isAlive": false,
+    "worth": 46.84,
+    "age": 4,
+    "name": "Sexton Stevenson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e942234bf58c463cf",
+    "isAlive": true,
+    "worth": 22.18,
+    "age": 9,
+    "name": "Bethany Herman",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e45e91dc49c0671c0",
+    "isAlive": false,
+    "worth": 43.35,
+    "age": 8,
+    "name": "Wright Park",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e90e14892d1f55f1c",
+    "isAlive": true,
+    "worth": 25.08,
+    "age": 8,
+    "name": "Owen Williamson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3fb3cd560eb5a2e0",
+    "isAlive": false,
+    "worth": 28.48,
+    "age": 3,
+    "name": "Forbes Parker",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e9a4cd67097c7948f",
+    "isAlive": true,
+    "worth": 30.31,
+    "age": 6,
+    "name": "Walter Clemons",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef27c8ea979dccf30",
+    "isAlive": true,
+    "worth": 24.74,
+    "age": 10,
+    "name": "Elvia Mclean",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e236e5dc098c3d98e",
+    "isAlive": false,
+    "worth": 21.45,
+    "age": 1,
+    "name": "Nolan Malone",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9e078a80f1312e37",
+    "isAlive": false,
+    "worth": 16.84,
+    "age": 8,
+    "name": "Wilkerson Pearson",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4093f7606bef3317",
+    "isAlive": false,
+    "worth": 27.95,
+    "age": 9,
+    "name": "Cook Mckenzie",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3171799783fb9d4f",
+    "isAlive": false,
+    "worth": 10.48,
+    "age": 3,
+    "name": "Lorna Chandler",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e17f0dc1d2318e492",
+    "isAlive": true,
+    "worth": 14.12,
+    "age": 1,
+    "name": "Britt Cameron",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e696007dfcb7dfc01",
+    "isAlive": true,
+    "worth": 33.72,
+    "age": 7,
+    "name": "Dejesus West",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed45c89544838916b",
+    "isAlive": false,
+    "worth": 25.34,
+    "age": 8,
+    "name": "Pearlie Carson",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34edadab71e774cf69f",
+    "isAlive": true,
+    "worth": 16.7,
+    "age": 9,
+    "name": "Alisa Kramer",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e9158c10c25f0f0b7",
+    "isAlive": false,
+    "worth": 18.54,
+    "age": 4,
+    "name": "Tabitha Henry",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecae6b98c7975847c",
+    "isAlive": false,
+    "worth": 8.34,
+    "age": 5,
+    "name": "Elva Mendez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb53172bb3fabbecb",
+    "isAlive": false,
+    "worth": 45.22,
+    "age": 7,
+    "name": "Allison Roth",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec9e47242b7ad71d9",
+    "isAlive": false,
+    "worth": 28.04,
+    "age": 8,
+    "name": "Ramirez Stafford",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed70858a4069e5489",
+    "isAlive": true,
+    "worth": 9.14,
+    "age": 6,
+    "name": "Rae Carter",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef092c22a00ec9d34",
+    "isAlive": false,
+    "worth": 33.53,
+    "age": 8,
+    "name": "Harrington Crane",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e56409dcf0adf23bb",
+    "isAlive": false,
+    "worth": 40.43,
+    "age": 6,
+    "name": "Faith Curtis",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e428d3fed47faa885",
+    "isAlive": false,
+    "worth": 5.53,
+    "age": 8,
+    "name": "Lesley Steele",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e31f4db6c5f11114f",
+    "isAlive": true,
+    "worth": 21.91,
+    "age": 2,
+    "name": "Hopkins Dillon",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e7baeaec987bbdc4d",
+    "isAlive": false,
+    "worth": 40.6,
+    "age": 3,
+    "name": "Watkins Glover",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e4aa1eba3ba2be08a",
+    "isAlive": true,
+    "worth": 49.25,
+    "age": 10,
+    "name": "Ochoa Wilkerson",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e47bfc00c541bed6b",
+    "isAlive": true,
+    "worth": 33.39,
+    "age": 3,
+    "name": "Allie Stokes",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eaa12333cf22a6327",
+    "isAlive": false,
+    "worth": 37.1,
+    "age": 9,
+    "name": "Angelica Turner",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e344103364a80aecc",
+    "isAlive": false,
+    "worth": 39.41,
+    "age": 8,
+    "name": "Christian Brooks",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edf763c2f3a9dcec9",
+    "isAlive": true,
+    "worth": 7.63,
+    "age": 2,
+    "name": "Rachel Matthews",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e5ffe3682e765bcfe",
+    "isAlive": false,
+    "worth": 35.21,
+    "age": 10,
+    "name": "Perry Pierce",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed16aabfcf1812572",
+    "isAlive": true,
+    "worth": 5.32,
+    "age": 9,
+    "name": "Lolita Curry",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eace8806cdc9bb9df",
+    "isAlive": false,
+    "worth": 11.39,
+    "age": 4,
+    "name": "Hunter Levy",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e8021208f59d808d3",
+    "isAlive": false,
+    "worth": 11.12,
+    "age": 1,
+    "name": "Hartman Whitehead",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ecd10f217a4c84f37",
+    "isAlive": true,
+    "worth": 34.61,
+    "age": 3,
+    "name": "Sharp Conner",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e18ba24d262a92436",
+    "isAlive": false,
+    "worth": 41.58,
+    "age": 10,
+    "name": "Howard Kelly",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eb2d010c62a3c40d6",
+    "isAlive": true,
+    "worth": 37.44,
+    "age": 8,
+    "name": "Delacruz Chaney",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec5254eed2d9234ae",
+    "isAlive": false,
+    "worth": 42.84,
+    "age": 4,
+    "name": "Sylvia Wolf",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed57ad5bba44b6538",
+    "isAlive": false,
+    "worth": 29.7,
+    "age": 10,
+    "name": "Duffy Clarke",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e64a68d56b2b25df3",
+    "isAlive": true,
+    "worth": 21.23,
+    "age": 9,
+    "name": "Francesca Warren",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e456dc2654be82c3e",
+    "isAlive": false,
+    "worth": 30.37,
+    "age": 10,
+    "name": "Marilyn Davenport",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0d672e168257c027",
+    "isAlive": false,
+    "worth": 47,
+    "age": 4,
+    "name": "Garcia Mcdonald",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e40f281827b86c7d9",
+    "isAlive": true,
+    "worth": 42.18,
+    "age": 2,
+    "name": "Stephenson Noel",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ead096773bed7148f",
+    "isAlive": true,
+    "worth": 35.43,
+    "age": 6,
+    "name": "Robbie Spencer",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4cb6e5ea2e55b8c5",
+    "isAlive": false,
+    "worth": 48.65,
+    "age": 8,
+    "name": "Koch Lawson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ea35310648d293cde",
+    "isAlive": true,
+    "worth": 34.49,
+    "age": 1,
+    "name": "Erickson Mosley",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e9719b4671f6d87e1",
+    "isAlive": true,
+    "worth": 18.33,
+    "age": 6,
+    "name": "Helene Thornton",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4c44a9c2852e3083",
+    "isAlive": false,
+    "worth": 31.25,
+    "age": 9,
+    "name": "Little Christian",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea002b03ea048d246",
+    "isAlive": false,
+    "worth": 15.56,
+    "age": 9,
+    "name": "Sarah Joseph",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb36eebc3486c9ba3",
+    "isAlive": false,
+    "worth": 45.98,
+    "age": 1,
+    "name": "Mcleod Finch",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e46eb5e080848b5be",
+    "isAlive": false,
+    "worth": 43,
+    "age": 7,
+    "name": "Lorie Berry",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9e2384a26e440e15",
+    "isAlive": true,
+    "worth": 17.69,
+    "age": 8,
+    "name": "Frieda York",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee952ccbf19ff2aff",
+    "isAlive": false,
+    "worth": 6.08,
+    "age": 3,
+    "name": "Curry Camacho",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eec85bcefc84c23ad",
+    "isAlive": true,
+    "worth": 25,
+    "age": 8,
+    "name": "Chasity Chambers",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed01e5a8e0495ef0e",
+    "isAlive": false,
+    "worth": 26.68,
+    "age": 10,
+    "name": "Valeria Irwin",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eafa32434cecf6003",
+    "isAlive": false,
+    "worth": 17.14,
+    "age": 9,
+    "name": "Sweet Lindsay",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1cf3aca490a698ec",
+    "isAlive": true,
+    "worth": 46.84,
+    "age": 7,
+    "name": "Rosie Sandoval",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec1fc84f6db381f70",
+    "isAlive": false,
+    "worth": 31.52,
+    "age": 8,
+    "name": "Cindy Lester",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34efe582983bca759be",
+    "isAlive": false,
+    "worth": 49.84,
+    "age": 5,
+    "name": "Tia Bender",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec3d12748f9141865",
+    "isAlive": true,
+    "worth": 29.43,
+    "age": 10,
+    "name": "Fay Sawyer",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e861ce6ed7643a4c9",
+    "isAlive": false,
+    "worth": 33.43,
+    "age": 7,
+    "name": "Alison Tanner",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1e1ff6fdc6050670",
+    "isAlive": false,
+    "worth": 48.46,
+    "age": 9,
+    "name": "Adele Galloway",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4988c34f9fa15795",
+    "isAlive": false,
+    "worth": 5.43,
+    "age": 9,
+    "name": "Austin Johnston",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef814055f6da0d906",
+    "isAlive": false,
+    "worth": 41.43,
+    "age": 9,
+    "name": "Boyle Lamb",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e37025617214c49bc",
+    "isAlive": false,
+    "worth": 41.14,
+    "age": 7,
+    "name": "Wilma Tyler",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e0f75066fb4cc298d",
+    "isAlive": false,
+    "worth": 26.2,
+    "age": 10,
+    "name": "Erica Workman",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6d22b563e2d182ef",
+    "isAlive": false,
+    "worth": 49.44,
+    "age": 2,
+    "name": "Tami Alvarado",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8ae66672a4f148df",
+    "isAlive": true,
+    "worth": 5.72,
+    "age": 8,
+    "name": "Liza Joyce",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eed8066c0cfa3b194",
+    "isAlive": true,
+    "worth": 17.35,
+    "age": 2,
+    "name": "Norton Mcintyre",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6047a46dd24c57a7",
+    "isAlive": true,
+    "worth": 28.46,
+    "age": 7,
+    "name": "Adams Macias",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e20f9e776db1e4297",
+    "isAlive": false,
+    "worth": 7.79,
+    "age": 9,
+    "name": "Ronda Pope",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e73c8a366df0bbc06",
+    "isAlive": false,
+    "worth": 46.6,
+    "age": 2,
+    "name": "Mcgee Hewitt",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e307da3f65ceac130",
+    "isAlive": false,
+    "worth": 21.35,
+    "age": 6,
+    "name": "Bridgette Hendricks",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec38f1593303fe224",
+    "isAlive": false,
+    "worth": 5.05,
+    "age": 7,
+    "name": "Dale Hays",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e178dd4f79ebf5b5b",
+    "isAlive": true,
+    "worth": 24.2,
+    "age": 10,
+    "name": "Gomez Petersen",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34efe2cd17a33891d00",
+    "isAlive": true,
+    "worth": 20.65,
+    "age": 2,
+    "name": "Hicks Baker",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e47c517dcfa7e3685",
+    "isAlive": false,
+    "worth": 49.63,
+    "age": 6,
+    "name": "Geraldine Barber",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e29124451cabac544",
+    "isAlive": true,
+    "worth": 29.63,
+    "age": 8,
+    "name": "Hall Lawrence",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e3cd25d3104fce6ca",
+    "isAlive": true,
+    "worth": 6.25,
+    "age": 7,
+    "name": "Guerra Glenn",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed7f51b16c7cd4b76",
+    "isAlive": true,
+    "worth": 13.23,
+    "age": 10,
+    "name": "English Coleman",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e56c9aaf0fce0b0a1",
+    "isAlive": true,
+    "worth": 19.28,
+    "age": 2,
+    "name": "Callie Wiley",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e6008c4dff4b92211",
+    "isAlive": true,
+    "worth": 16.25,
+    "age": 10,
+    "name": "Reba Massey",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1e656d2002dbe2a5",
+    "isAlive": true,
+    "worth": 21.97,
+    "age": 6,
+    "name": "Jones Shepard",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e012013189bb6bdcf",
+    "isAlive": true,
+    "worth": 31.82,
+    "age": 5,
+    "name": "Walls Jarvis",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6168a69e5dee07e6",
+    "isAlive": false,
+    "worth": 16.12,
+    "age": 3,
+    "name": "Russell Clayton",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6f4b425ec9a21b5f",
+    "isAlive": false,
+    "worth": 21.22,
+    "age": 6,
+    "name": "Opal Owen",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e453d3c212306aae0",
+    "isAlive": true,
+    "worth": 27.08,
+    "age": 2,
+    "name": "Dickson Buckley",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e558cc357e937a5fe",
+    "isAlive": false,
+    "worth": 28.09,
+    "age": 4,
+    "name": "Reilly Campbell",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e90379d5567a8c7d5",
+    "isAlive": true,
+    "worth": 15.25,
+    "age": 3,
+    "name": "Downs Sweeney",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef833f9eb10d2ae78",
+    "isAlive": false,
+    "worth": 45,
+    "age": 7,
+    "name": "Wong Bonner",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e18f848ce06920905",
+    "isAlive": false,
+    "worth": 42.05,
+    "age": 9,
+    "name": "Doris Rich",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef99caa4de4642f21",
+    "isAlive": true,
+    "worth": 10.12,
+    "age": 8,
+    "name": "Camacho Baird",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e22e717281ed78b1b",
+    "isAlive": true,
+    "worth": 46.45,
+    "age": 4,
+    "name": "Velez Bell",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb2a6bcc722ef23e3",
+    "isAlive": false,
+    "worth": 31.11,
+    "age": 2,
+    "name": "Christa Graves",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e98996e35e7a022d7",
+    "isAlive": false,
+    "worth": 6.49,
+    "age": 4,
+    "name": "Jannie Ellis",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e164db1bea16e9207",
+    "isAlive": false,
+    "worth": 28.17,
+    "age": 1,
+    "name": "Aimee Carr",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec383cb081b95e24f",
+    "isAlive": true,
+    "worth": 41.56,
+    "age": 1,
+    "name": "Gill Foreman",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3215d4e79b7d5701",
+    "isAlive": false,
+    "worth": 6.09,
+    "age": 5,
+    "name": "Oneill Watts",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9214ac99aaf0d87d",
+    "isAlive": true,
+    "worth": 45.71,
+    "age": 1,
+    "name": "Doyle Grant",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8d275b54238dd804",
+    "isAlive": false,
+    "worth": 11.62,
+    "age": 1,
+    "name": "Evangeline Oneill",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1c53bfcfb834eaf6",
+    "isAlive": false,
+    "worth": 45.74,
+    "age": 9,
+    "name": "Franks Lott",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e20af9ad4deb950b8",
+    "isAlive": true,
+    "worth": 25.31,
+    "age": 10,
+    "name": "Carey Patel",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e32522f1887673c29",
+    "isAlive": false,
+    "worth": 15.52,
+    "age": 7,
+    "name": "Chase Vaughan",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e6d4a544f8a3632c6",
+    "isAlive": true,
+    "worth": 39.09,
+    "age": 1,
+    "name": "Lois Levine",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e5ef6c590c23492cf",
+    "isAlive": false,
+    "worth": 38.64,
+    "age": 2,
+    "name": "Young Gates",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed981548b0130740b",
+    "isAlive": false,
+    "worth": 46.27,
+    "age": 1,
+    "name": "Stein Preston",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e386aeba7aeb02dbf",
+    "isAlive": false,
+    "worth": 27.06,
+    "age": 8,
+    "name": "Sweeney Fuentes",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e6dd934d32645a3a3",
+    "isAlive": true,
+    "worth": 6.54,
+    "age": 9,
+    "name": "Oconnor Wells",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3ae62685f8180615",
+    "isAlive": false,
+    "worth": 36.25,
+    "age": 3,
+    "name": "Carolyn Harding",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e383f5fcf52682028",
+    "isAlive": false,
+    "worth": 28.78,
+    "age": 4,
+    "name": "Harvey Richmond",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e351ee77988fb9ad9",
+    "isAlive": true,
+    "worth": 10.47,
+    "age": 3,
+    "name": "Gloria Mcguire",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8566df01133dc253",
+    "isAlive": false,
+    "worth": 38.78,
+    "age": 7,
+    "name": "Welch Pratt",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebc452ff2e31a286c",
+    "isAlive": true,
+    "worth": 15.52,
+    "age": 7,
+    "name": "Nicole Aguirre",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e581027b9d1181d2a",
+    "isAlive": true,
+    "worth": 38.85,
+    "age": 2,
+    "name": "Clarissa Conway",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec8030bfc4e7c21f2",
+    "isAlive": false,
+    "worth": 26.05,
+    "age": 3,
+    "name": "Holman Rojas",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e8bc65e790af8931f",
+    "isAlive": true,
+    "worth": 23.6,
+    "age": 5,
+    "name": "Steele Riddle",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e034c1e217246d50c",
+    "isAlive": true,
+    "worth": 45.09,
+    "age": 10,
+    "name": "Carver Hutchinson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e25daeff216acb35c",
+    "isAlive": true,
+    "worth": 28.79,
+    "age": 5,
+    "name": "Coleman Goff",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec61798c20ad062f9",
+    "isAlive": false,
+    "worth": 13.31,
+    "age": 4,
+    "name": "Gaines England",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebdcc987a93cf24c2",
+    "isAlive": true,
+    "worth": 9.7,
+    "age": 10,
+    "name": "Shaw Robbins",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e6669989e2c5380fe",
+    "isAlive": false,
+    "worth": 40.47,
+    "age": 3,
+    "name": "Hickman Mcbride",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e573204de02974c58",
+    "isAlive": false,
+    "worth": 44.53,
+    "age": 4,
+    "name": "Deann Mclaughlin",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e249200ab5af8432b",
+    "isAlive": false,
+    "worth": 26.27,
+    "age": 6,
+    "name": "Graves Rivera",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e07248ffbd89b4254",
+    "isAlive": true,
+    "worth": 25.03,
+    "age": 6,
+    "name": "Jane Odonnell",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e91cfffc24050a529",
+    "isAlive": false,
+    "worth": 17.16,
+    "age": 1,
+    "name": "Hope Velasquez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e42b30d5473ded93a",
+    "isAlive": false,
+    "worth": 26.81,
+    "age": 3,
+    "name": "Christensen Pacheco",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eed88083726e88ed1",
+    "isAlive": false,
+    "worth": 21.72,
+    "age": 1,
+    "name": "Linda Arnold",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1831cba3f0276b9c",
+    "isAlive": true,
+    "worth": 45.84,
+    "age": 5,
+    "name": "Carter Faulkner",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed90fe3f8964bb040",
+    "isAlive": true,
+    "worth": 44.16,
+    "age": 4,
+    "name": "Orr Cooper",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef6a8bd5b6e664159",
+    "isAlive": false,
+    "worth": 49.6,
+    "age": 8,
+    "name": "Snyder Carver",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec800adeb3732e045",
+    "isAlive": false,
+    "worth": 8.11,
+    "age": 10,
+    "name": "Teri Hoover",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e077d1e648a081cd9",
+    "isAlive": true,
+    "worth": 20.83,
+    "age": 5,
+    "name": "Potter Hendrix",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e96617699795a0331",
+    "isAlive": true,
+    "worth": 44.71,
+    "age": 6,
+    "name": "Soto Lane",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e98e9a301b6c2f167",
+    "isAlive": true,
+    "worth": 9.26,
+    "age": 8,
+    "name": "Suarez Skinner",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e17130d0eee5f0ac9",
+    "isAlive": false,
+    "worth": 11.77,
+    "age": 4,
+    "name": "Hansen Rowland",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e7c0d7603f20b983b",
+    "isAlive": false,
+    "worth": 32.71,
+    "age": 6,
+    "name": "Burks Strong",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e6e929241d2694cba",
+    "isAlive": true,
+    "worth": 13.38,
+    "age": 7,
+    "name": "Nguyen Griffith",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e060e1056a07faebc",
+    "isAlive": true,
+    "worth": 24.07,
+    "age": 7,
+    "name": "Roach Benjamin",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ecc7cca91716dd284",
+    "isAlive": true,
+    "worth": 25.77,
+    "age": 8,
+    "name": "Erma Heath",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e87dab14af0560300",
+    "isAlive": false,
+    "worth": 28.57,
+    "age": 6,
+    "name": "Frost May",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1c336a1ef649e369",
+    "isAlive": false,
+    "worth": 6.87,
+    "age": 6,
+    "name": "Nash Soto",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e4275e6b43ca12be7",
+    "isAlive": false,
+    "worth": 25.54,
+    "age": 1,
+    "name": "Rhonda Greene",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee9668a744100bd5d",
+    "isAlive": false,
+    "worth": 25.61,
+    "age": 1,
+    "name": "Amelia Price",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e862cd28d57947208",
+    "isAlive": true,
+    "worth": 21.93,
+    "age": 6,
+    "name": "Rice Miles",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebbf852edda5ae54a",
+    "isAlive": false,
+    "worth": 28.62,
+    "age": 8,
+    "name": "Concepcion Romero",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee0e59ea9d388f6a5",
+    "isAlive": true,
+    "worth": 34.63,
+    "age": 8,
+    "name": "Kerri Knox",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef0e4887aaa20ff8c",
+    "isAlive": true,
+    "worth": 9.86,
+    "age": 10,
+    "name": "Brooke Hawkins",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eec138798b3404465",
+    "isAlive": false,
+    "worth": 35.26,
+    "age": 10,
+    "name": "Tyson Whitley",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e758a2470df1cfb92",
+    "isAlive": false,
+    "worth": 22.86,
+    "age": 9,
+    "name": "Elizabeth Whitaker",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eec26421d430386a9",
+    "isAlive": true,
+    "worth": 45.04,
+    "age": 8,
+    "name": "Antonia Downs",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4a621b673558f154",
+    "isAlive": true,
+    "worth": 27.69,
+    "age": 9,
+    "name": "Carole David",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e244d6fcdc161ec6f",
+    "isAlive": true,
+    "worth": 9.09,
+    "age": 10,
+    "name": "Peggy Mcdaniel",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee401d5ac3cfda4fb",
+    "isAlive": false,
+    "worth": 39.44,
+    "age": 1,
+    "name": "Brigitte Landry",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebd2dd8b3593ea0e3",
+    "isAlive": true,
+    "worth": 16.27,
+    "age": 1,
+    "name": "Penelope Mays",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3498cc1f89a3145f",
+    "isAlive": false,
+    "worth": 32.18,
+    "age": 10,
+    "name": "Katie Christensen",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4cc9db00bf2657ed",
+    "isAlive": false,
+    "worth": 38.56,
+    "age": 7,
+    "name": "Shelly Beck",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eac62bd8e11328986",
+    "isAlive": false,
+    "worth": 37.95,
+    "age": 7,
+    "name": "Whitney Reed",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eaf77cc41a72376fc",
+    "isAlive": false,
+    "worth": 34.99,
+    "age": 7,
+    "name": "Rosa Valdez",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee7f4be99135a89fd",
+    "isAlive": true,
+    "worth": 41.09,
+    "age": 5,
+    "name": "Lavonne Ward",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e33eccddbbf1c2c64",
+    "isAlive": false,
+    "worth": 13.27,
+    "age": 1,
+    "name": "Mcintyre Atkinson",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eec5b92c12a9fa912",
+    "isAlive": false,
+    "worth": 33.93,
+    "age": 10,
+    "name": "Baker Velez",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1d19d6be725d8512",
+    "isAlive": false,
+    "worth": 15.04,
+    "age": 9,
+    "name": "Maldonado Richard",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e0e94446f0fd1831b",
+    "isAlive": true,
+    "worth": 17.73,
+    "age": 9,
+    "name": "Velazquez Watkins",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e93a58c20f3e644ad",
+    "isAlive": true,
+    "worth": 28.65,
+    "age": 1,
+    "name": "Juanita Rutledge",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e94df489b0ce6165e",
+    "isAlive": false,
+    "worth": 37.73,
+    "age": 10,
+    "name": "Janell George",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e85c6c81487eed351",
+    "isAlive": true,
+    "worth": 45.5,
+    "age": 2,
+    "name": "Lola Sharpe",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e83ddfb77d056c73f",
+    "isAlive": false,
+    "worth": 31.88,
+    "age": 9,
+    "name": "Susana Ray",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef512ad3ba54b0cae",
+    "isAlive": true,
+    "worth": 39.62,
+    "age": 9,
+    "name": "Roberts Maynard",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eedafb72274d9f0ff",
+    "isAlive": false,
+    "worth": 9.25,
+    "age": 2,
+    "name": "Rosalie Dejesus",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34efcc44eadc1090b95",
+    "isAlive": true,
+    "worth": 36.93,
+    "age": 1,
+    "name": "Molina Holland",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee62de41150b87384",
+    "isAlive": true,
+    "worth": 14.74,
+    "age": 4,
+    "name": "Fitzgerald Gamble",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e6a94cf03dfb9f0ee",
+    "isAlive": false,
+    "worth": 40.91,
+    "age": 6,
+    "name": "Sophie Gray",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eba039a65a1d661a3",
+    "isAlive": true,
+    "worth": 33.02,
+    "age": 10,
+    "name": "Nunez Patterson",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef626b34091b31c85",
+    "isAlive": true,
+    "worth": 37.98,
+    "age": 2,
+    "name": "Meadows Williams",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec751d000521541e8",
+    "isAlive": true,
+    "worth": 18.26,
+    "age": 9,
+    "name": "Blake Mcfadden",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e3471df0a2bae40f8",
+    "isAlive": true,
+    "worth": 44.61,
+    "age": 9,
+    "name": "Gay Blevins",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef84fd68c2a297823",
+    "isAlive": false,
+    "worth": 38.53,
+    "age": 5,
+    "name": "Grimes Dunn",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef8ca79e50bcf7d14",
+    "isAlive": true,
+    "worth": 18.58,
+    "age": 6,
+    "name": "Jeannette Ross",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9dc8a2e5bb8de01e",
+    "isAlive": true,
+    "worth": 6.74,
+    "age": 8,
+    "name": "Finch Ortiz",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb9e6376bbfbe7392",
+    "isAlive": true,
+    "worth": 26.6,
+    "age": 10,
+    "name": "Nicholson Duffy",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e153c48ec5db5bcfb",
+    "isAlive": false,
+    "worth": 34.93,
+    "age": 7,
+    "name": "Lawanda Allison",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1b835ddf73526101",
+    "isAlive": false,
+    "worth": 30.7,
+    "age": 7,
+    "name": "Colette Parrish",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e23cead8bfe5240b1",
+    "isAlive": false,
+    "worth": 17.23,
+    "age": 7,
+    "name": "Tamra Alford",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e2380ec551910f5c1",
+    "isAlive": true,
+    "worth": 37.08,
+    "age": 7,
+    "name": "Joanne Abbott",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e281c8d4f24698f86",
+    "isAlive": false,
+    "worth": 9.24,
+    "age": 3,
+    "name": "Marsh Roberts",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e604afe4211612ed0",
+    "isAlive": false,
+    "worth": 48.12,
+    "age": 2,
+    "name": "Verna Talley",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eba9566caee9bd418",
+    "isAlive": true,
+    "worth": 40.53,
+    "age": 6,
+    "name": "Phillips Walker",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e0ebd688aaf6423d6",
+    "isAlive": true,
+    "worth": 10.49,
+    "age": 3,
+    "name": "Constance Martinez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e3407bfea3ff5cf47",
+    "isAlive": true,
+    "worth": 34.9,
+    "age": 7,
+    "name": "Denise Peck",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e018916d6fa9e9e7b",
+    "isAlive": false,
+    "worth": 12.18,
+    "age": 9,
+    "name": "Atkins Rivas",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7b36021762aa8c4d",
+    "isAlive": false,
+    "worth": 23.87,
+    "age": 1,
+    "name": "Vang Griffin",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eaac1abdc5134b256",
+    "isAlive": true,
+    "worth": 42.56,
+    "age": 3,
+    "name": "Beard Nolan",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8508f78b475ceffa",
+    "isAlive": true,
+    "worth": 5.44,
+    "age": 4,
+    "name": "Green Banks",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed4605ee67f8549e3",
+    "isAlive": false,
+    "worth": 30.84,
+    "age": 3,
+    "name": "Velma Powers",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7110eb7c4c3a200b",
+    "isAlive": false,
+    "worth": 42.1,
+    "age": 5,
+    "name": "Mamie Summers",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e554c531bce260d9d",
+    "isAlive": true,
+    "worth": 17,
+    "age": 10,
+    "name": "Kelly Davidson",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e99212d1b9fbf90da",
+    "isAlive": true,
+    "worth": 46.78,
+    "age": 3,
+    "name": "Janis Frost",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1b4859866b9562fe",
+    "isAlive": true,
+    "worth": 31.58,
+    "age": 3,
+    "name": "Christie Bauer",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8c04143e8e4cad56",
+    "isAlive": false,
+    "worth": 32.14,
+    "age": 5,
+    "name": "Roseann Noble",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e435df29954cb2fd5",
+    "isAlive": false,
+    "worth": 42.9,
+    "age": 9,
+    "name": "April Robinson",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eeafa216dae016f4e",
+    "isAlive": true,
+    "worth": 36.63,
+    "age": 9,
+    "name": "Nielsen Floyd",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec6ab01edf59e7668",
+    "isAlive": true,
+    "worth": 10.1,
+    "age": 8,
+    "name": "Shelton Reyes",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eeea0bce9f9784045",
+    "isAlive": false,
+    "worth": 38.73,
+    "age": 8,
+    "name": "Rosario Key",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e5271b14a09fa81e5",
+    "isAlive": false,
+    "worth": 24.37,
+    "age": 10,
+    "name": "Liliana Harrison",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e124f769823c52022",
+    "isAlive": false,
+    "worth": 22.34,
+    "age": 1,
+    "name": "Ryan Combs",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e523c570ba3ca847f",
+    "isAlive": true,
+    "worth": 25.64,
+    "age": 2,
+    "name": "Bauer Gomez",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e22a499522182c448",
+    "isAlive": false,
+    "worth": 47.68,
+    "age": 4,
+    "name": "Molly Mcclain",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed7c55af42b339b80",
+    "isAlive": false,
+    "worth": 22.04,
+    "age": 9,
+    "name": "Anne Wheeler",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e4292ed3e9317f7b0",
+    "isAlive": false,
+    "worth": 49.48,
+    "age": 8,
+    "name": "Vicky Michael",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea61202b1d892289c",
+    "isAlive": false,
+    "worth": 33.35,
+    "age": 8,
+    "name": "Landry Garcia",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7c89d9077c7be070",
+    "isAlive": false,
+    "worth": 49.48,
+    "age": 5,
+    "name": "Laverne Oneal",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee8826aa360c4b82d",
+    "isAlive": true,
+    "worth": 41.77,
+    "age": 1,
+    "name": "Julia Harrington",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e01dc70777c000f84",
+    "isAlive": true,
+    "worth": 26.97,
+    "age": 6,
+    "name": "Elba Lopez",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef673ed1a3a735e8c",
+    "isAlive": false,
+    "worth": 30.04,
+    "age": 2,
+    "name": "Elsa Butler",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e87a938d037ee78f5",
+    "isAlive": true,
+    "worth": 34.82,
+    "age": 5,
+    "name": "Mariana Randall",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb0ad15a4781c5c06",
+    "isAlive": true,
+    "worth": 17.55,
+    "age": 9,
+    "name": "Hodges Delacruz",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4a1a347b78e71ebe",
+    "isAlive": true,
+    "worth": 45.5,
+    "age": 8,
+    "name": "Humphrey Everett",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e139ca3acbda11c6d",
+    "isAlive": true,
+    "worth": 25.7,
+    "age": 10,
+    "name": "Salazar Dillard",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e93a0e640fe9092f9",
+    "isAlive": true,
+    "worth": 7.09,
+    "age": 9,
+    "name": "Ava Manning",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e21746f37e2360d02",
+    "isAlive": false,
+    "worth": 35.71,
+    "age": 8,
+    "name": "Sabrina Holman",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eba166d8fad1b4c98",
+    "isAlive": false,
+    "worth": 48.18,
+    "age": 6,
+    "name": "Eliza Hart",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e5f02b310ad839700",
+    "isAlive": true,
+    "worth": 16.37,
+    "age": 6,
+    "name": "Brianna Witt",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4d2802e1f9574b19",
+    "isAlive": true,
+    "worth": 33.2,
+    "age": 3,
+    "name": "Luna Flynn",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e12b3655fc24482ab",
+    "isAlive": true,
+    "worth": 47.11,
+    "age": 3,
+    "name": "Josephine Melendez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e3cadeea8d08ed92e",
+    "isAlive": false,
+    "worth": 6.01,
+    "age": 7,
+    "name": "Leona Kim",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e17444feebb021ca0",
+    "isAlive": true,
+    "worth": 20.51,
+    "age": 2,
+    "name": "George Sparks",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eaf3a24ac613ef606",
+    "isAlive": true,
+    "worth": 18.75,
+    "age": 8,
+    "name": "Gentry Hudson",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e5024f12e4ba21a59",
+    "isAlive": false,
+    "worth": 44.48,
+    "age": 5,
+    "name": "Sanchez Hines",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eecdad3f7003e03e3",
+    "isAlive": false,
+    "worth": 14.04,
+    "age": 1,
+    "name": "Ramsey Figueroa",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1f43f20b0d7b5e75",
+    "isAlive": true,
+    "worth": 28.5,
+    "age": 8,
+    "name": "Herminia Mercado",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ebd3407b831321321",
+    "isAlive": true,
+    "worth": 46.18,
+    "age": 6,
+    "name": "Rowland Walter",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e32373568a5f3bab5",
+    "isAlive": true,
+    "worth": 29.5,
+    "age": 6,
+    "name": "Berry Shaw",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ebfa29490bd0c7daf",
+    "isAlive": false,
+    "worth": 20.71,
+    "age": 6,
+    "name": "Clara Hess",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e153d442470d0a699",
+    "isAlive": false,
+    "worth": 27.84,
+    "age": 6,
+    "name": "Armstrong Henderson",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8a6686afa7aa115a",
+    "isAlive": false,
+    "worth": 40.62,
+    "age": 8,
+    "name": "Glass Ewing",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e51324f8ed6a41a52",
+    "isAlive": false,
+    "worth": 26.52,
+    "age": 2,
+    "name": "Callahan Guy",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5677dc644d44dbf8",
+    "isAlive": true,
+    "worth": 39.83,
+    "age": 4,
+    "name": "Weeks Sheppard",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7961790d47b4de6f",
+    "isAlive": false,
+    "worth": 19.51,
+    "age": 5,
+    "name": "Merrill Huffman",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e490cbbfdb1ea66b6",
+    "isAlive": false,
+    "worth": 31.41,
+    "age": 1,
+    "name": "Holcomb Donovan",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea9f2384b9bfd6b63",
+    "isAlive": false,
+    "worth": 31.03,
+    "age": 1,
+    "name": "Hewitt Knapp",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed43d329294353256",
+    "isAlive": false,
+    "worth": 14.79,
+    "age": 3,
+    "name": "Marquez Craft",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e2af152507064d989",
+    "isAlive": true,
+    "worth": 47.84,
+    "age": 8,
+    "name": "Mathews Holden",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e8aeeb0e8db79563d",
+    "isAlive": false,
+    "worth": 6.09,
+    "age": 4,
+    "name": "West Fischer",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e953949ebc520402c",
+    "isAlive": true,
+    "worth": 9.93,
+    "age": 3,
+    "name": "Leonard Cotton",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e6d2c166ae6913fd3",
+    "isAlive": true,
+    "worth": 8.74,
+    "age": 8,
+    "name": "Rhoda Walters",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4463e44ac3810b3e",
+    "isAlive": true,
+    "worth": 47.89,
+    "age": 1,
+    "name": "Griffith English",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e5e231bcf82d66fb7",
+    "isAlive": true,
+    "worth": 24.71,
+    "age": 9,
+    "name": "Wendy Frederick",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee8016f6c09cfc1a0",
+    "isAlive": true,
+    "worth": 26.65,
+    "age": 1,
+    "name": "Rochelle Daniels",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea7fef7dd295deec4",
+    "isAlive": false,
+    "worth": 22.95,
+    "age": 1,
+    "name": "Marylou Oneil",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed1ac32dd2f0462a3",
+    "isAlive": true,
+    "worth": 22.66,
+    "age": 8,
+    "name": "Foley Scott",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e4428ee7d684515b2",
+    "isAlive": true,
+    "worth": 14.89,
+    "age": 2,
+    "name": "Harding Jensen",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34efe36ac6c6c2c138f",
+    "isAlive": true,
+    "worth": 24.26,
+    "age": 1,
+    "name": "Paula Contreras",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34edd4d644f25de5aaf",
+    "isAlive": false,
+    "worth": 13.85,
+    "age": 5,
+    "name": "Lesa Bolton",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e02e8b11435926151",
+    "isAlive": false,
+    "worth": 19.78,
+    "age": 9,
+    "name": "Jenna Russell",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e672a448ae1eff194",
+    "isAlive": true,
+    "worth": 36.49,
+    "age": 9,
+    "name": "Margie Morton",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e23a9a18050a3939f",
+    "isAlive": true,
+    "worth": 5.92,
+    "age": 9,
+    "name": "Lilian Wade",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1bfdf3c48433a59c",
+    "isAlive": false,
+    "worth": 34.75,
+    "age": 9,
+    "name": "Kirsten Kirk",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e97497962f4c9e8e7",
+    "isAlive": false,
+    "worth": 39.28,
+    "age": 5,
+    "name": "Jessica Duncan",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e27598aadebd07dda",
+    "isAlive": true,
+    "worth": 7.41,
+    "age": 5,
+    "name": "Ware Franks",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e03b9be39fb3e268c",
+    "isAlive": false,
+    "worth": 13.71,
+    "age": 3,
+    "name": "Corrine Cunningham",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e58008cf4802ed0f4",
+    "isAlive": true,
+    "worth": 47.07,
+    "age": 8,
+    "name": "Cheryl Nunez",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea80eaa1ecb596687",
+    "isAlive": true,
+    "worth": 37.65,
+    "age": 3,
+    "name": "Robertson Walton",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7bee995a31dd939a",
+    "isAlive": false,
+    "worth": 40.74,
+    "age": 5,
+    "name": "Yvette Bowers",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1f6e56b4045a7903",
+    "isAlive": false,
+    "worth": 12.3,
+    "age": 10,
+    "name": "Faulkner Koch",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e95af449670297030",
+    "isAlive": false,
+    "worth": 37.34,
+    "age": 2,
+    "name": "Sargent Cabrera",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e35b4fa433b5d93ea",
+    "isAlive": true,
+    "worth": 38.26,
+    "age": 8,
+    "name": "Serena Battle",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6e57219c843a2fc9",
+    "isAlive": true,
+    "worth": 26.4,
+    "age": 10,
+    "name": "Burch Cervantes",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7eeb933ddc8c57f5",
+    "isAlive": false,
+    "worth": 40.97,
+    "age": 6,
+    "name": "Randall Higgins",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e85ae53f29faaeb05",
+    "isAlive": true,
+    "worth": 21.81,
+    "age": 1,
+    "name": "Joy Hyde",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec98d179d8791bcae",
+    "isAlive": false,
+    "worth": 20.59,
+    "age": 4,
+    "name": "Slater Huff",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4d5a456057fb4bd2",
+    "isAlive": true,
+    "worth": 11.94,
+    "age": 8,
+    "name": "Ollie Russo",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eceee71498c0fe3cf",
+    "isAlive": false,
+    "worth": 27.33,
+    "age": 3,
+    "name": "Vaughn Hampton",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e141692f5f8402ddb",
+    "isAlive": true,
+    "worth": 23.05,
+    "age": 4,
+    "name": "Taylor Murray",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0ab249ede204fe54",
+    "isAlive": false,
+    "worth": 17.82,
+    "age": 2,
+    "name": "Meredith Garza",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eef0293d557241691",
+    "isAlive": false,
+    "worth": 41.9,
+    "age": 1,
+    "name": "Cooper Benson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ef4a6e1d997ae0eb1",
+    "isAlive": false,
+    "worth": 37.18,
+    "age": 1,
+    "name": "Lakisha Marquez",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec35a1de2a5dfc4df",
+    "isAlive": false,
+    "worth": 15.48,
+    "age": 4,
+    "name": "Shannon Jimenez",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eccb5bd880e95d8ec",
+    "isAlive": false,
+    "worth": 8.04,
+    "age": 5,
+    "name": "Norris Mckee",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e914085e541f1b9d2",
+    "isAlive": true,
+    "worth": 46.79,
+    "age": 8,
+    "name": "Paulette Sexton",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eee27df2fd8eef53b",
+    "isAlive": true,
+    "worth": 16.52,
+    "age": 8,
+    "name": "Ramona Rose",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e0d75881d04d90ee6",
+    "isAlive": true,
+    "worth": 20.26,
+    "age": 2,
+    "name": "Marjorie Fleming",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e0ffaca7329f30342",
+    "isAlive": false,
+    "worth": 5.73,
+    "age": 3,
+    "name": "Mercado Burns",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6fd51af39568d053",
+    "isAlive": false,
+    "worth": 46.14,
+    "age": 1,
+    "name": "Wolf Le",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7ba2025c70c8c9b3",
+    "isAlive": true,
+    "worth": 25.79,
+    "age": 2,
+    "name": "Shanna Woodard",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e56f1e1f1a17e6acf",
+    "isAlive": false,
+    "worth": 6.46,
+    "age": 7,
+    "name": "Mavis Reese",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e89b6461c74bed8f5",
+    "isAlive": false,
+    "worth": 22.66,
+    "age": 2,
+    "name": "Dyer Cole",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef419c305c1364418",
+    "isAlive": false,
+    "worth": 7.33,
+    "age": 6,
+    "name": "Quinn Anthony",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e43af25a4227bbbbb",
+    "isAlive": false,
+    "worth": 44.47,
+    "age": 3,
+    "name": "Townsend Ware",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8b379be80836de8a",
+    "isAlive": true,
+    "worth": 26.84,
+    "age": 10,
+    "name": "Pratt Acosta",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e74937c019c6ade41",
+    "isAlive": false,
+    "worth": 39.44,
+    "age": 6,
+    "name": "Sims Herring",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e293fa26a8d07fe4a",
+    "isAlive": false,
+    "worth": 17.5,
+    "age": 9,
+    "name": "Middleton Hester",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e7e78521b73279109",
+    "isAlive": false,
+    "worth": 44.37,
+    "age": 5,
+    "name": "Rowe Espinoza",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e29a92933d8a2cc3f",
+    "isAlive": true,
+    "worth": 35.72,
+    "age": 1,
+    "name": "Alston Morse",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e469ef4ff81db6aa3",
+    "isAlive": true,
+    "worth": 32.42,
+    "age": 8,
+    "name": "Vilma Martin",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1344754461c583fb",
+    "isAlive": true,
+    "worth": 31.39,
+    "age": 8,
+    "name": "Whitney Parks",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e116adbcbd9812dab",
+    "isAlive": true,
+    "worth": 28.63,
+    "age": 8,
+    "name": "Cora Rush",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8298854568901e79",
+    "isAlive": true,
+    "worth": 9.32,
+    "age": 9,
+    "name": "Knight Bartlett",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34efcc86ae6eaa4b7a1",
+    "isAlive": true,
+    "worth": 40.1,
+    "age": 1,
+    "name": "Terrie Salazar",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed7ad5e4eacb8a811",
+    "isAlive": true,
+    "worth": 8.25,
+    "age": 5,
+    "name": "Lucille Pena",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9dd16b2982992988",
+    "isAlive": false,
+    "worth": 22.4,
+    "age": 1,
+    "name": "Jordan Compton",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec77b52bb2c19a1ee",
+    "isAlive": false,
+    "worth": 17.17,
+    "age": 5,
+    "name": "Hollie Church",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e73a68dc6c1e7440c",
+    "isAlive": false,
+    "worth": 24.64,
+    "age": 7,
+    "name": "Langley Allen",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef0c165d9eeb72d65",
+    "isAlive": false,
+    "worth": 17.56,
+    "age": 5,
+    "name": "Webster Santiago",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eebc00f5f1306a5b4",
+    "isAlive": true,
+    "worth": 18.72,
+    "age": 3,
+    "name": "Sherrie Bates",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec4d2146bd7bcd82d",
+    "isAlive": true,
+    "worth": 5.81,
+    "age": 10,
+    "name": "Mann Hebert",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e13dd2b2380bfeb80",
+    "isAlive": false,
+    "worth": 36.99,
+    "age": 2,
+    "name": "Lester Duran",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1338b2f347290257",
+    "isAlive": false,
+    "worth": 18.36,
+    "age": 7,
+    "name": "Ola Pugh",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ea2d3e3ba91701a9b",
+    "isAlive": false,
+    "worth": 21.56,
+    "age": 10,
+    "name": "Strickland Hooper",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4c3e62c0bca757fa",
+    "isAlive": true,
+    "worth": 18.85,
+    "age": 5,
+    "name": "Salinas Morrow",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7f00e4f160c40085",
+    "isAlive": true,
+    "worth": 5,
+    "age": 10,
+    "name": "Abby Lynch",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e5a3f265d8b2e86a0",
+    "isAlive": true,
+    "worth": 7.05,
+    "age": 2,
+    "name": "Chang Wolfe",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1838983b01e85b39",
+    "isAlive": true,
+    "worth": 45.13,
+    "age": 7,
+    "name": "Gross Travis",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed9bfedefab37099d",
+    "isAlive": true,
+    "worth": 49.41,
+    "age": 3,
+    "name": "Augusta Townsend",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee62f02768c3ff6c8",
+    "isAlive": false,
+    "worth": 36.01,
+    "age": 1,
+    "name": "Beryl Armstrong",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec30d2eee6fffe7a9",
+    "isAlive": true,
+    "worth": 43.57,
+    "age": 9,
+    "name": "Hattie Mccullough",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e80b0826a6f473fb5",
+    "isAlive": false,
+    "worth": 27.09,
+    "age": 3,
+    "name": "Frankie Jenkins",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e0923b916e13a52c7",
+    "isAlive": true,
+    "worth": 15.36,
+    "age": 5,
+    "name": "Gretchen Kirby",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee4b4a7ed73c45b7c",
+    "isAlive": true,
+    "worth": 45.97,
+    "age": 6,
+    "name": "Wilson Holt",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3df12d61f84834dd",
+    "isAlive": false,
+    "worth": 39.16,
+    "age": 1,
+    "name": "Dena Fitzgerald",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e859efb97e3a65edd",
+    "isAlive": true,
+    "worth": 49.71,
+    "age": 1,
+    "name": "Mckenzie Estes",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e28f87e1a349fe125",
+    "isAlive": false,
+    "worth": 7.74,
+    "age": 9,
+    "name": "Mcneil Tucker",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec8458b14ab772fad",
+    "isAlive": false,
+    "worth": 49.7,
+    "age": 10,
+    "name": "Ora Smith",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edbaeeb4b46a92992",
+    "isAlive": false,
+    "worth": 35.16,
+    "age": 4,
+    "name": "Sheena Mccray",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eef6f961f49286063",
+    "isAlive": false,
+    "worth": 18.04,
+    "age": 7,
+    "name": "Jackson Luna",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e610dfc1c3d1ac6f5",
+    "isAlive": true,
+    "worth": 10.46,
+    "age": 7,
+    "name": "Sheryl Chan",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e18aef01dfa3054dc",
+    "isAlive": false,
+    "worth": 43.3,
+    "age": 6,
+    "name": "Yvonne Peterson",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea2bda66be43eb26c",
+    "isAlive": true,
+    "worth": 8.81,
+    "age": 6,
+    "name": "Robbins Bean",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee8e499bd6bc8a9b7",
+    "isAlive": false,
+    "worth": 38.49,
+    "age": 9,
+    "name": "Nichols Bridges",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e8b25d59bfe72e833",
+    "isAlive": true,
+    "worth": 5.89,
+    "age": 8,
+    "name": "Roman Coffey",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea50ebc2e5151e24e",
+    "isAlive": false,
+    "worth": 5.01,
+    "age": 7,
+    "name": "Graciela Castillo",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34edd9b4d2fbbebd70b",
+    "isAlive": true,
+    "worth": 14.96,
+    "age": 4,
+    "name": "Jean Meyer",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e96eb4c5910142f33",
+    "isAlive": false,
+    "worth": 16.94,
+    "age": 3,
+    "name": "Brenda Merritt",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e9045f1e06df4fb60",
+    "isAlive": true,
+    "worth": 15.87,
+    "age": 1,
+    "name": "Dorothy Sanford",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e439e6b2ea2280efb",
+    "isAlive": true,
+    "worth": 24.4,
+    "age": 3,
+    "name": "Karin Porter",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e590f7f83a80b78c0",
+    "isAlive": false,
+    "worth": 9.87,
+    "age": 1,
+    "name": "Earlene Terry",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e8342f477f4c20269",
+    "isAlive": true,
+    "worth": 19.17,
+    "age": 8,
+    "name": "Conway Olsen",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e064bf0ad951d309d",
+    "isAlive": true,
+    "worth": 44.05,
+    "age": 2,
+    "name": "Zimmerman Rocha",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee2dd212d2f9c8ef1",
+    "isAlive": true,
+    "worth": 29.96,
+    "age": 3,
+    "name": "Aida Farley",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e2b4b6bd2fd4e3602",
+    "isAlive": false,
+    "worth": 10.6,
+    "age": 2,
+    "name": "Susan Fisher",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e6045bb4225d54249",
+    "isAlive": true,
+    "worth": 8.54,
+    "age": 5,
+    "name": "Elisabeth Rodriguez",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed314edb19c23f653",
+    "isAlive": false,
+    "worth": 45.12,
+    "age": 3,
+    "name": "Vargas Wilkins",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef7a5b1d3e73b217f",
+    "isAlive": true,
+    "worth": 22.59,
+    "age": 3,
+    "name": "Tracey Ball",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e67ca2f60fe111059",
+    "isAlive": true,
+    "worth": 36.98,
+    "age": 7,
+    "name": "Marisa Goodman",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34edac020cb4434bede",
+    "isAlive": true,
+    "worth": 38.82,
+    "age": 10,
+    "name": "Rosa Cannon",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ebca67cdb330237a4",
+    "isAlive": false,
+    "worth": 6.9,
+    "age": 10,
+    "name": "Eve Stone",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed10d7fc09b56f807",
+    "isAlive": true,
+    "worth": 6.85,
+    "age": 1,
+    "name": "Barnes Harrell",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e5bea7c7d9e1ab3ba",
+    "isAlive": true,
+    "worth": 7.8,
+    "age": 4,
+    "name": "Bradley Dickson",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ea0654dc21cf74551",
+    "isAlive": false,
+    "worth": 45.31,
+    "age": 1,
+    "name": "Cecile Mathews",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ef436daa896c5744d",
+    "isAlive": true,
+    "worth": 48.83,
+    "age": 3,
+    "name": "Knowles Hobbs",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e399aca6d0ccca4dd",
+    "isAlive": false,
+    "worth": 5.67,
+    "age": 9,
+    "name": "Branch Bryant",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ec96baa76274f958f",
+    "isAlive": false,
+    "worth": 26.17,
+    "age": 5,
+    "name": "Blanca Brewer",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e9869f4ba9e3e6e96",
+    "isAlive": false,
+    "worth": 34.49,
+    "age": 4,
+    "name": "Eugenia Dotson",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eb8613c28d799a350",
+    "isAlive": false,
+    "worth": 11.41,
+    "age": 8,
+    "name": "Brittany Avila",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e3509a0b667da70df",
+    "isAlive": true,
+    "worth": 42.65,
+    "age": 3,
+    "name": "Bonnie Beach",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e1b0948f2917680d5",
+    "isAlive": false,
+    "worth": 10.19,
+    "age": 2,
+    "name": "Byrd Gallagher",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e98099c43fb652fc5",
+    "isAlive": false,
+    "worth": 48.95,
+    "age": 9,
+    "name": "Hays Rios",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e2780334bfd694c9a",
+    "isAlive": true,
+    "worth": 26.01,
+    "age": 5,
+    "name": "Craft Watson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ecd191888af125a38",
+    "isAlive": true,
+    "worth": 42.7,
+    "age": 9,
+    "name": "Alejandra Burnett",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb43a28f010c00536",
+    "isAlive": true,
+    "worth": 29.06,
+    "age": 2,
+    "name": "Terry Cherry",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e26a304fd877bcc94",
+    "isAlive": false,
+    "worth": 31.94,
+    "age": 3,
+    "name": "Gould Lloyd",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee54592706d15627d",
+    "isAlive": true,
+    "worth": 13.35,
+    "age": 3,
+    "name": "Dotson Snider",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e0d4ff92b8c510d03",
+    "isAlive": true,
+    "worth": 26.22,
+    "age": 9,
+    "name": "Mattie Carroll",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e83621779b049e9fd",
+    "isAlive": true,
+    "worth": 37.99,
+    "age": 5,
+    "name": "Ray Owens",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0a2b35bee5b17494",
+    "isAlive": false,
+    "worth": 15.11,
+    "age": 10,
+    "name": "Mckinney Bird",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e82771a46c47d8a10",
+    "isAlive": false,
+    "worth": 16.66,
+    "age": 2,
+    "name": "Schmidt Lynn",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e08d128a42b51b443",
+    "isAlive": true,
+    "worth": 35.58,
+    "age": 7,
+    "name": "Lynch Hoffman",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef550d6a45902a002",
+    "isAlive": false,
+    "worth": 22.94,
+    "age": 1,
+    "name": "Leanna Bowen",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef0da7bb5667ba8d7",
+    "isAlive": true,
+    "worth": 39.88,
+    "age": 10,
+    "name": "Ilene Weiss",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee424ac0c0d0e8dd9",
+    "isAlive": true,
+    "worth": 25.82,
+    "age": 4,
+    "name": "Jaime Herrera",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e85b81f4163e82a7e",
+    "isAlive": true,
+    "worth": 7.22,
+    "age": 1,
+    "name": "Torres Hunter",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ecdd8ca3848f1bb42",
+    "isAlive": true,
+    "worth": 19.18,
+    "age": 5,
+    "name": "Gertrude Hurley",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ece45f42db19052ea",
+    "isAlive": false,
+    "worth": 29.49,
+    "age": 5,
+    "name": "Nadia Dawson",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eeda45dddde53934e",
+    "isAlive": false,
+    "worth": 21.68,
+    "age": 8,
+    "name": "Wise Howe",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e8154edbd184ffe31",
+    "isAlive": true,
+    "worth": 34.94,
+    "age": 9,
+    "name": "Howell Valencia",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1cadde39af1cd6e8",
+    "isAlive": true,
+    "worth": 25.86,
+    "age": 3,
+    "name": "Holloway Gilbert",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1fb53ee217c40d49",
+    "isAlive": true,
+    "worth": 11.54,
+    "age": 6,
+    "name": "June Ryan",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e41032cf6c89fca1f",
+    "isAlive": true,
+    "worth": 6.34,
+    "age": 7,
+    "name": "Nettie Nguyen",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8360a56e6de36e15",
+    "isAlive": true,
+    "worth": 35.19,
+    "age": 5,
+    "name": "Cannon Moody",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e3a8f596f9f960db2",
+    "isAlive": false,
+    "worth": 29.95,
+    "age": 6,
+    "name": "Bartlett Rice",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ecf55d6e53fd0fcfc",
+    "isAlive": true,
+    "worth": 10.77,
+    "age": 10,
+    "name": "Selma Palmer",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed473686820ee8639",
+    "isAlive": true,
+    "worth": 25.57,
+    "age": 10,
+    "name": "Dawson Evans",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e8e20bf628040edc4",
+    "isAlive": true,
+    "worth": 19.34,
+    "age": 2,
+    "name": "Copeland Ayers",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eb19619505c0bac9a",
+    "isAlive": false,
+    "worth": 34.78,
+    "age": 7,
+    "name": "Katelyn Wilcox",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e122e247b0de163f1",
+    "isAlive": true,
+    "worth": 18.21,
+    "age": 10,
+    "name": "Josie Prince",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e8a5752f56577e943",
+    "isAlive": true,
+    "worth": 7.37,
+    "age": 3,
+    "name": "Berger Kent",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e0932255a5fcbdde8",
+    "isAlive": false,
+    "worth": 36.07,
+    "age": 6,
+    "name": "Cathleen Spence",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e5c4c90f9a4b67cc7",
+    "isAlive": true,
+    "worth": 47.82,
+    "age": 1,
+    "name": "Mcdaniel Slater",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec7265045e256deed",
+    "isAlive": true,
+    "worth": 35.91,
+    "age": 4,
+    "name": "Melissa Haney",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6a6aa567664c427a",
+    "isAlive": true,
+    "worth": 20.4,
+    "age": 4,
+    "name": "Goodwin Alvarez",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb1a1bfe067a0c6f6",
+    "isAlive": true,
+    "worth": 45.46,
+    "age": 5,
+    "name": "Blanchard Moreno",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec4326ad03331f8ca",
+    "isAlive": true,
+    "worth": 16.3,
+    "age": 6,
+    "name": "Ferrell Case",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e40e86bcabcda0299",
+    "isAlive": true,
+    "worth": 38.93,
+    "age": 2,
+    "name": "Pearl Mullins",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef28fd647800ac852",
+    "isAlive": true,
+    "worth": 32.57,
+    "age": 6,
+    "name": "Moon Avery",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e211d30304986b621",
+    "isAlive": false,
+    "worth": 44,
+    "age": 10,
+    "name": "Macdonald Sullivan",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e2d05cfdedd6fb1a5",
+    "isAlive": false,
+    "worth": 14.49,
+    "age": 10,
+    "name": "Eleanor Long",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee3bd6a4cdb943f14",
+    "isAlive": true,
+    "worth": 24.26,
+    "age": 2,
+    "name": "Avila Mullen",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e153569f7a152644c",
+    "isAlive": true,
+    "worth": 16.47,
+    "age": 8,
+    "name": "Robin Calhoun",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8d962753fa8cf789",
+    "isAlive": false,
+    "worth": 42.49,
+    "age": 9,
+    "name": "Riley Ellison",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34efa06d2764fef878d",
+    "isAlive": true,
+    "worth": 29.26,
+    "age": 9,
+    "name": "Dean Hardin",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e3ef5e5b74a3eee18",
+    "isAlive": true,
+    "worth": 22.5,
+    "age": 8,
+    "name": "Madeleine Flowers",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8549c9c365f716c3",
+    "isAlive": true,
+    "worth": 36.97,
+    "age": 1,
+    "name": "Vera Holloway",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebbcce3be4716262e",
+    "isAlive": true,
+    "worth": 40.01,
+    "age": 1,
+    "name": "Mitchell Holder",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb485564fdecf212a",
+    "isAlive": true,
+    "worth": 49.28,
+    "age": 4,
+    "name": "Amy Frye",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ebf3e8b605b51945c",
+    "isAlive": false,
+    "worth": 40.87,
+    "age": 1,
+    "name": "Jennie Webster",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e5c777fc265579d79",
+    "isAlive": false,
+    "worth": 43.5,
+    "age": 5,
+    "name": "Woodward Woods",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34efc923d21c3790431",
+    "isAlive": true,
+    "worth": 8.71,
+    "age": 1,
+    "name": "Cherry Buchanan",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e33571ab0a708934d",
+    "isAlive": false,
+    "worth": 5.73,
+    "age": 1,
+    "name": "Saundra Garner",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e88923d54aed7f91c",
+    "isAlive": false,
+    "worth": 15.22,
+    "age": 1,
+    "name": "Brandi Norris",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eb8919957f55f88e2",
+    "isAlive": false,
+    "worth": 18.46,
+    "age": 3,
+    "name": "Billie Johns",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e301cf6b7b3ce0feb",
+    "isAlive": true,
+    "worth": 46.31,
+    "age": 1,
+    "name": "Lela Bentley",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eca56319f46e7c346",
+    "isAlive": true,
+    "worth": 33.77,
+    "age": 9,
+    "name": "Luella Roy",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e34f74693d3511c3a",
+    "isAlive": false,
+    "worth": 12.12,
+    "age": 1,
+    "name": "Lynda Tyson",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e7a040495f52fd820",
+    "isAlive": false,
+    "worth": 18.35,
+    "age": 4,
+    "name": "Hatfield Lewis",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eb8d5931b8001155d",
+    "isAlive": false,
+    "worth": 48.84,
+    "age": 8,
+    "name": "Parker Taylor",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e5b959d80ef2fd235",
+    "isAlive": true,
+    "worth": 5.9,
+    "age": 9,
+    "name": "Bianca Green",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed1770fe74dfa66d8",
+    "isAlive": false,
+    "worth": 8.63,
+    "age": 8,
+    "name": "Gutierrez Mcgee",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee3474ee574883608",
+    "isAlive": true,
+    "worth": 38.34,
+    "age": 3,
+    "name": "Thompson House",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eef45e7328c9d21b2",
+    "isAlive": false,
+    "worth": 5.38,
+    "age": 3,
+    "name": "Angie Carrillo",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eda6526fdb5109ce8",
+    "isAlive": false,
+    "worth": 15.35,
+    "age": 3,
+    "name": "Melisa Forbes",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1bf4b852e6f26552",
+    "isAlive": true,
+    "worth": 21.48,
+    "age": 9,
+    "name": "Mendez Cox",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed820160bc12857d4",
+    "isAlive": false,
+    "worth": 44.15,
+    "age": 8,
+    "name": "Ellis Hensley",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e15e948b7682d077d",
+    "isAlive": false,
+    "worth": 41.89,
+    "age": 2,
+    "name": "Lila Johnson",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e162f67fc1af6fe1d",
+    "isAlive": false,
+    "worth": 48.02,
+    "age": 3,
+    "name": "Walker Holcomb",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1ca71edf712d8789",
+    "isAlive": true,
+    "worth": 26.42,
+    "age": 9,
+    "name": "Stafford Webb",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecbc1e86c24e99d3d",
+    "isAlive": false,
+    "worth": 5.55,
+    "age": 10,
+    "name": "Deloris Perry",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed613589fb0033831",
+    "isAlive": false,
+    "worth": 13.39,
+    "age": 3,
+    "name": "Glenna Boyer",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef683459917de9a8d",
+    "isAlive": true,
+    "worth": 7.34,
+    "age": 7,
+    "name": "Clay Mayo",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ebf51b3ebd312d2f1",
+    "isAlive": false,
+    "worth": 11.04,
+    "age": 7,
+    "name": "Candice Mckay",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e07d24b934162c4e5",
+    "isAlive": true,
+    "worth": 47.27,
+    "age": 1,
+    "name": "Kathie Tillman",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e95428d6c72c02392",
+    "isAlive": false,
+    "worth": 5.74,
+    "age": 2,
+    "name": "Johanna Cohen",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1f968f3c52f89f6e",
+    "isAlive": true,
+    "worth": 38.64,
+    "age": 4,
+    "name": "Ivy Pittman",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea15c05b6bddd2eeb",
+    "isAlive": false,
+    "worth": 44.36,
+    "age": 7,
+    "name": "Ruth Knight",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e3f2849098253960b",
+    "isAlive": false,
+    "worth": 45.37,
+    "age": 3,
+    "name": "Floyd Emerson",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee498f36de3e589eb",
+    "isAlive": true,
+    "worth": 27.4,
+    "age": 9,
+    "name": "Mccullough Morales",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ebbfbe6bae3ab830f",
+    "isAlive": false,
+    "worth": 29.05,
+    "age": 7,
+    "name": "Cochran Poole",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e8c4507bff163147a",
+    "isAlive": false,
+    "worth": 23.53,
+    "age": 2,
+    "name": "Alexandria Sampson",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e295ce1d7bb1b798b",
+    "isAlive": false,
+    "worth": 22.69,
+    "age": 9,
+    "name": "Long Moses",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed1eb4a63214581a8",
+    "isAlive": false,
+    "worth": 47.16,
+    "age": 9,
+    "name": "Hurley William",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef1785d5e84c71550",
+    "isAlive": true,
+    "worth": 15.72,
+    "age": 7,
+    "name": "Hurst Burt",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e9842133126ece21e",
+    "isAlive": false,
+    "worth": 23.53,
+    "age": 7,
+    "name": "Buchanan Olson",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e3f1ae7ede0a23421",
+    "isAlive": false,
+    "worth": 31.72,
+    "age": 4,
+    "name": "Lottie Small",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e40d9af244e457a2b",
+    "isAlive": false,
+    "worth": 6.62,
+    "age": 8,
+    "name": "Mindy Ayala",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea05013cb858f0c84",
+    "isAlive": true,
+    "worth": 9.8,
+    "age": 7,
+    "name": "Betty Mason",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e199d36169552dc76",
+    "isAlive": false,
+    "worth": 30.53,
+    "age": 3,
+    "name": "Clemons Fowler",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec11dd4032a431e89",
+    "isAlive": true,
+    "worth": 9.86,
+    "age": 8,
+    "name": "Foreman Rivers",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e255139c8ea6468ad",
+    "isAlive": true,
+    "worth": 28.58,
+    "age": 2,
+    "name": "Misty Kerr",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edcfd1368f80c4d68",
+    "isAlive": false,
+    "worth": 36.5,
+    "age": 2,
+    "name": "Letitia Stein",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4dbf4b5ad3b2e930",
+    "isAlive": true,
+    "worth": 22.32,
+    "age": 4,
+    "name": "Maureen Bowman",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e50c0990433a04103",
+    "isAlive": true,
+    "worth": 26.55,
+    "age": 9,
+    "name": "Jimmie Salas",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e0a5aab0ffdee35ec",
+    "isAlive": false,
+    "worth": 7.98,
+    "age": 7,
+    "name": "Marcy Robertson",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ecf87296adb755305",
+    "isAlive": false,
+    "worth": 28.94,
+    "age": 7,
+    "name": "Bailey Shaffer",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e11cd16870074f7a0",
+    "isAlive": true,
+    "worth": 31.26,
+    "age": 8,
+    "name": "Lora Cline",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee18ed116229bbd36",
+    "isAlive": true,
+    "worth": 44.75,
+    "age": 10,
+    "name": "Louise Schmidt",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e10f95bdfea694ec4",
+    "isAlive": false,
+    "worth": 42.89,
+    "age": 4,
+    "name": "Alexandra Kennedy",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e994c0293936466a7",
+    "isAlive": true,
+    "worth": 17.03,
+    "age": 5,
+    "name": "Campbell Fields",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eccaa572af420e6b4",
+    "isAlive": true,
+    "worth": 13.23,
+    "age": 6,
+    "name": "Hayes Vargas",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eea7ecc396918dc04",
+    "isAlive": true,
+    "worth": 45.63,
+    "age": 1,
+    "name": "Randi Weber",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5046f54d88faa037",
+    "isAlive": true,
+    "worth": 23,
+    "age": 8,
+    "name": "Mcfadden Marsh",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e4af9be23dc8675ca",
+    "isAlive": false,
+    "worth": 19.6,
+    "age": 5,
+    "name": "Lindsey Underwood",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ebef6667e28606deb",
+    "isAlive": false,
+    "worth": 15.73,
+    "age": 2,
+    "name": "Wynn Carney",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e2805bb3ffa980379",
+    "isAlive": true,
+    "worth": 46.17,
+    "age": 4,
+    "name": "Herring Thomas",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ea90b50b548c76c48",
+    "isAlive": false,
+    "worth": 40.78,
+    "age": 10,
+    "name": "Shepard Mitchell",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e170c33941f9efd07",
+    "isAlive": true,
+    "worth": 20.03,
+    "age": 5,
+    "name": "Nanette Mendoza",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e65936de4b4981c8a",
+    "isAlive": false,
+    "worth": 20.08,
+    "age": 10,
+    "name": "Melinda Neal",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee2c6e36194b87b0f",
+    "isAlive": true,
+    "worth": 42.84,
+    "age": 5,
+    "name": "Kayla Durham",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e64280ab41cfe447d",
+    "isAlive": true,
+    "worth": 37.75,
+    "age": 6,
+    "name": "Staci Bush",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e168a9d49004e6e54",
+    "isAlive": false,
+    "worth": 28.92,
+    "age": 2,
+    "name": "Dixie Saunders",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed92ee46f4abc1ffd",
+    "isAlive": true,
+    "worth": 35.07,
+    "age": 3,
+    "name": "Stacey Booker",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec7a3bf0001a354b2",
+    "isAlive": true,
+    "worth": 21.35,
+    "age": 6,
+    "name": "Ewing Strickland",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e29f6691e101405de",
+    "isAlive": false,
+    "worth": 37.87,
+    "age": 10,
+    "name": "Ophelia Barker",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5501b624ab8c85f8",
+    "isAlive": false,
+    "worth": 14.35,
+    "age": 6,
+    "name": "Curtis Keller",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eec04e165164a43fe",
+    "isAlive": true,
+    "worth": 46.18,
+    "age": 5,
+    "name": "Fisher Jacobs",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7019db5e1e7ca8a8",
+    "isAlive": false,
+    "worth": 45.35,
+    "age": 3,
+    "name": "Jasmine Hale",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0827d9f1e0c155c8",
+    "isAlive": false,
+    "worth": 47.34,
+    "age": 2,
+    "name": "Reeves Gordon",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e984e2d4601cf2b32",
+    "isAlive": true,
+    "worth": 8.17,
+    "age": 9,
+    "name": "Melba Conley",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e422003d9da903377",
+    "isAlive": true,
+    "worth": 30.23,
+    "age": 10,
+    "name": "Yolanda Rodgers",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ea08bbac83412828e",
+    "isAlive": false,
+    "worth": 12.79,
+    "age": 3,
+    "name": "Michele Mcpherson",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e094ba6b416454cc9",
+    "isAlive": false,
+    "worth": 39.05,
+    "age": 1,
+    "name": "Ella Adkins",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ea5f4fb9c6b2997ed",
+    "isAlive": true,
+    "worth": 38.42,
+    "age": 8,
+    "name": "Mcintosh Velazquez",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7a9d012d37971d8c",
+    "isAlive": true,
+    "worth": 37.03,
+    "age": 6,
+    "name": "Gamble Reynolds",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb72e35f649739a1c",
+    "isAlive": true,
+    "worth": 15.18,
+    "age": 9,
+    "name": "Iris Stevens",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e295150aa21b4c683",
+    "isAlive": false,
+    "worth": 28.79,
+    "age": 4,
+    "name": "Bush Daugherty",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef6b1ed162b4c2905",
+    "isAlive": false,
+    "worth": 18.85,
+    "age": 6,
+    "name": "Marks Campos",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e67fcecf218415bbb",
+    "isAlive": true,
+    "worth": 15.36,
+    "age": 8,
+    "name": "Reyna Gilmore",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1ccf6f9a6e6f9a3c",
+    "isAlive": false,
+    "worth": 14.45,
+    "age": 6,
+    "name": "Dionne Quinn",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e1435357de056793f",
+    "isAlive": false,
+    "worth": 25.58,
+    "age": 9,
+    "name": "Jerry Greer",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e00c5c2d8a5067c67",
+    "isAlive": true,
+    "worth": 17.11,
+    "age": 3,
+    "name": "Odom Tran",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eefb420308e56c787",
+    "isAlive": true,
+    "worth": 20.31,
+    "age": 6,
+    "name": "Kelly Kidd",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e899fa7021781eefd",
+    "isAlive": false,
+    "worth": 31.58,
+    "age": 6,
+    "name": "Therese Jackson",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e7622f12203833356",
+    "isAlive": false,
+    "worth": 15.68,
+    "age": 1,
+    "name": "Sara Berger",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ea6321fa49df14989",
+    "isAlive": false,
+    "worth": 20.59,
+    "age": 7,
+    "name": "Hodge Hahn",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e56e5443c968663c8",
+    "isAlive": false,
+    "worth": 23.88,
+    "age": 6,
+    "name": "Teresa Blackburn",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e31496ad7d00a812e",
+    "isAlive": false,
+    "worth": 18.03,
+    "age": 6,
+    "name": "Keller Mckinney",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed891ef8a74876863",
+    "isAlive": false,
+    "worth": 44.59,
+    "age": 7,
+    "name": "Ball Mercer",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e63c5a276cbc2f5ca",
+    "isAlive": true,
+    "worth": 14.37,
+    "age": 10,
+    "name": "Hahn Blair",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6253245c81932963",
+    "isAlive": true,
+    "worth": 49.42,
+    "age": 8,
+    "name": "Ayala Carey",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0b094b5060583c14",
+    "isAlive": false,
+    "worth": 38.28,
+    "age": 4,
+    "name": "Goodman Dorsey",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e0f9ff8e11f2be774",
+    "isAlive": false,
+    "worth": 36.82,
+    "age": 6,
+    "name": "Rhodes Schultz",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec318763c268c9ee4",
+    "isAlive": false,
+    "worth": 43.81,
+    "age": 7,
+    "name": "Ashlee Waters",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eca6c32ec2b129e0f",
+    "isAlive": false,
+    "worth": 8.83,
+    "age": 1,
+    "name": "Pennington Kelley",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef9ecbb3f1917ff23",
+    "isAlive": true,
+    "worth": 44.72,
+    "age": 10,
+    "name": "Lakeisha Langley",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eacf90fbba607cd60",
+    "isAlive": false,
+    "worth": 14.48,
+    "age": 10,
+    "name": "Tricia Payne",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e42ab3c097b5ce81f",
+    "isAlive": true,
+    "worth": 12.79,
+    "age": 7,
+    "name": "Mcmahon Myers",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e6b9a85b7deaf1bf6",
+    "isAlive": true,
+    "worth": 40.38,
+    "age": 6,
+    "name": "Mcclure Glass",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eaee90664138246bd",
+    "isAlive": true,
+    "worth": 18.8,
+    "age": 5,
+    "name": "Parsons Sloan",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef5d36543e130e9e3",
+    "isAlive": false,
+    "worth": 39.18,
+    "age": 2,
+    "name": "Macias Estrada",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eee12e5d1fff3e6f3",
+    "isAlive": true,
+    "worth": 49.57,
+    "age": 1,
+    "name": "Wilcox Clay",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e1dde1f7040d8e8a6",
+    "isAlive": false,
+    "worth": 40.8,
+    "age": 6,
+    "name": "Marva Gonzales",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef5da95bf7bfb347e",
+    "isAlive": false,
+    "worth": 10.06,
+    "age": 8,
+    "name": "Sheppard King",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed5ed9926a0e449d1",
+    "isAlive": true,
+    "worth": 37.07,
+    "age": 2,
+    "name": "Bessie Benton",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee8aef109fce53cc7",
+    "isAlive": false,
+    "worth": 46.67,
+    "age": 6,
+    "name": "Becker Bailey",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e73608dae365b2088",
+    "isAlive": true,
+    "worth": 28.52,
+    "age": 4,
+    "name": "Terry Gutierrez",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee59c8e1b278c6134",
+    "isAlive": false,
+    "worth": 12.21,
+    "age": 7,
+    "name": "Combs Edwards",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb8131c3e40448e03",
+    "isAlive": true,
+    "worth": 19.83,
+    "age": 8,
+    "name": "Riggs Solomon",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eac42c82bd60fdc03",
+    "isAlive": false,
+    "worth": 30.29,
+    "age": 5,
+    "name": "Faye Rosario",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e4e09829c9e99d3c0",
+    "isAlive": true,
+    "worth": 35.25,
+    "age": 10,
+    "name": "Belinda Douglas",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e08279c7785d33226",
+    "isAlive": false,
+    "worth": 8.27,
+    "age": 7,
+    "name": "Leticia Barr",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e63b352644e8dfba1",
+    "isAlive": false,
+    "worth": 35.21,
+    "age": 9,
+    "name": "Ernestine Bernard",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7d649ba66872d7b2",
+    "isAlive": true,
+    "worth": 37.56,
+    "age": 3,
+    "name": "Estrada Mejia",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ebe1a9b54ecea3f26",
+    "isAlive": true,
+    "worth": 23.96,
+    "age": 6,
+    "name": "Mollie Richards",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef029294022ab17c6",
+    "isAlive": false,
+    "worth": 11.46,
+    "age": 3,
+    "name": "Lula Blackwell",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e74f582ad46f3d6bc",
+    "isAlive": true,
+    "worth": 31.56,
+    "age": 9,
+    "name": "Claudette Brennan",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eea2ecfd1558bc98b",
+    "isAlive": true,
+    "worth": 21.72,
+    "age": 9,
+    "name": "Georgina Miller",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e43de02eb2a4e93e9",
+    "isAlive": false,
+    "worth": 43.19,
+    "age": 4,
+    "name": "William Hood",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e5f80ef637681c42d",
+    "isAlive": true,
+    "worth": 14.84,
+    "age": 7,
+    "name": "Keith Morrison",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e64e8b8f6c2992f68",
+    "isAlive": true,
+    "worth": 40.68,
+    "age": 3,
+    "name": "Key Melton",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e890d3bce785a645a",
+    "isAlive": true,
+    "worth": 17.99,
+    "age": 3,
+    "name": "Fox Fulton",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ece8cc03b704e8c30",
+    "isAlive": true,
+    "worth": 33.59,
+    "age": 3,
+    "name": "Ashley Waller",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e35db4fcd119acf62",
+    "isAlive": false,
+    "worth": 19.22,
+    "age": 4,
+    "name": "Carr Cardenas",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e4fa8d002dfda06ec",
+    "isAlive": true,
+    "worth": 17.68,
+    "age": 2,
+    "name": "Bobbie Wood",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e02d92de68cad40ac",
+    "isAlive": false,
+    "worth": 22.92,
+    "age": 10,
+    "name": "Sheree Drake",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1ff80f4cabd4525e",
+    "isAlive": true,
+    "worth": 7.94,
+    "age": 6,
+    "name": "Rosella Buckner",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e29cb9e9fa01abd04",
+    "isAlive": true,
+    "worth": 48.25,
+    "age": 8,
+    "name": "Hilda Cummings",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e55b80bd71f78f389",
+    "isAlive": false,
+    "worth": 15.39,
+    "age": 8,
+    "name": "Lewis Mcfarland",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e6e78baae248fa297",
+    "isAlive": false,
+    "worth": 17,
+    "age": 8,
+    "name": "Valenzuela Guerrero",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e03996293f9069e12",
+    "isAlive": false,
+    "worth": 31.5,
+    "age": 4,
+    "name": "Cooley Davis",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e218563bb7ad54d94",
+    "isAlive": true,
+    "worth": 26.38,
+    "age": 1,
+    "name": "Kelli Wallace",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e8367072aedd308b8",
+    "isAlive": false,
+    "worth": 31.39,
+    "age": 1,
+    "name": "Sonya Good",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecf349ef36c20c884",
+    "isAlive": false,
+    "worth": 27.15,
+    "age": 10,
+    "name": "Marisol Hickman",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e47e9034cae5053f4",
+    "isAlive": true,
+    "worth": 16.86,
+    "age": 7,
+    "name": "Janet Graham",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9978d038343dce6f",
+    "isAlive": true,
+    "worth": 8.44,
+    "age": 7,
+    "name": "Myra Casey",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3a819dd29d782c09",
+    "isAlive": false,
+    "worth": 9.29,
+    "age": 4,
+    "name": "Richmond Cash",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e83ff1934d3afca26",
+    "isAlive": false,
+    "worth": 36.46,
+    "age": 9,
+    "name": "Savannah Farrell",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e99256baa700b8e22",
+    "isAlive": true,
+    "worth": 29.03,
+    "age": 7,
+    "name": "Cain Bullock",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34efdef7a7b7325ddfe",
+    "isAlive": true,
+    "worth": 49.54,
+    "age": 6,
+    "name": "Sosa Sherman",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee93608ef837e1d80",
+    "isAlive": false,
+    "worth": 7.77,
+    "age": 2,
+    "name": "Celia Vincent",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e401d8eb84442399c",
+    "isAlive": true,
+    "worth": 9.54,
+    "age": 10,
+    "name": "Juliet Diaz",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea8708d604f868c20",
+    "isAlive": true,
+    "worth": 34.69,
+    "age": 10,
+    "name": "Lauri Moss",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed25f219236732376",
+    "isAlive": true,
+    "worth": 43.6,
+    "age": 1,
+    "name": "Bernadine Bradford",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eead19bf2eeca3ea0",
+    "isAlive": true,
+    "worth": 8.02,
+    "age": 3,
+    "name": "Newton Hinton",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e2773376fef0f9387",
+    "isAlive": true,
+    "worth": 12.07,
+    "age": 1,
+    "name": "Marta Dalton",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e120ce74dbe51a729",
+    "isAlive": false,
+    "worth": 15.57,
+    "age": 9,
+    "name": "Sheri Salinas",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e1fb6a68e0a9865d7",
+    "isAlive": false,
+    "worth": 9.82,
+    "age": 10,
+    "name": "Powers Vinson",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0456be64310d7151",
+    "isAlive": true,
+    "worth": 25.14,
+    "age": 6,
+    "name": "Albert Solis",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e40b39b74869d9da1",
+    "isAlive": true,
+    "worth": 7.87,
+    "age": 3,
+    "name": "Giles Cantrell",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea4ea806762212cea",
+    "isAlive": false,
+    "worth": 30.33,
+    "age": 4,
+    "name": "Leigh Ochoa",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e6f19eaf40292ca3d",
+    "isAlive": false,
+    "worth": 11.06,
+    "age": 6,
+    "name": "Jenny Pace",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eb1965a30baab8221",
+    "isAlive": true,
+    "worth": 10.4,
+    "age": 6,
+    "name": "Aguirre Andrews",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ef5ccaa3124167596",
+    "isAlive": true,
+    "worth": 21.5,
+    "age": 7,
+    "name": "Lenora Pickett",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eaf5724652f923663",
+    "isAlive": false,
+    "worth": 35.07,
+    "age": 3,
+    "name": "Marina Orr",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e19f4549f2957de89",
+    "isAlive": false,
+    "worth": 24.04,
+    "age": 8,
+    "name": "Diana Morris",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee1087c887fd83fc6",
+    "isAlive": true,
+    "worth": 42.53,
+    "age": 2,
+    "name": "Angelina Mack",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee7c3e8f5426f01a6",
+    "isAlive": true,
+    "worth": 25.56,
+    "age": 2,
+    "name": "Barton Stark",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1d7614922ea988cf",
+    "isAlive": true,
+    "worth": 41.02,
+    "age": 4,
+    "name": "Traci Parsons",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5a8a1baf7a0e91c6",
+    "isAlive": false,
+    "worth": 48,
+    "age": 6,
+    "name": "Cantu White",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edf82840c2b348145",
+    "isAlive": false,
+    "worth": 32.43,
+    "age": 6,
+    "name": "Jessie Colon",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5b1a2c758dcf677f",
+    "isAlive": true,
+    "worth": 11.62,
+    "age": 4,
+    "name": "Holder Hodge",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e3fbb31d59a5825af",
+    "isAlive": false,
+    "worth": 9.79,
+    "age": 6,
+    "name": "Darla Wynn",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edef30fd1482cedfc",
+    "isAlive": true,
+    "worth": 18.98,
+    "age": 1,
+    "name": "Kristi Guerra",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e2f38e75808ad5d44",
+    "isAlive": true,
+    "worth": 33.17,
+    "age": 10,
+    "name": "Jarvis Petty",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3102d501bb5b27ea",
+    "isAlive": false,
+    "worth": 48.18,
+    "age": 4,
+    "name": "Bullock Potter",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0dc0310dbb40299b",
+    "isAlive": false,
+    "worth": 10.92,
+    "age": 7,
+    "name": "Tamara Mcmahon",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7ba71a64078dabad",
+    "isAlive": false,
+    "worth": 33.89,
+    "age": 2,
+    "name": "Knapp Phillips",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ea126422a9451d810",
+    "isAlive": true,
+    "worth": 8.7,
+    "age": 9,
+    "name": "Marissa Barron",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ea473286c25a737d7",
+    "isAlive": false,
+    "worth": 9.04,
+    "age": 3,
+    "name": "Love Guzman",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e998be69a9da7a547",
+    "isAlive": false,
+    "worth": 42.25,
+    "age": 3,
+    "name": "Prince Riley",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e755a6ae6122bf1b8",
+    "isAlive": false,
+    "worth": 32.84,
+    "age": 8,
+    "name": "Barlow Lyons",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7332cd71b0b9eac7",
+    "isAlive": false,
+    "worth": 11.93,
+    "age": 8,
+    "name": "Georgia Aguilar",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e592a0bc3fc203855",
+    "isAlive": true,
+    "worth": 46.97,
+    "age": 4,
+    "name": "Robert Daniel",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5dfa831ad7c1ef63",
+    "isAlive": true,
+    "worth": 46.71,
+    "age": 4,
+    "name": "Marci Gaines",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec8512cc5ffd1168a",
+    "isAlive": true,
+    "worth": 31.24,
+    "age": 6,
+    "name": "Candace Byrd",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec3550dc9d132e330",
+    "isAlive": false,
+    "worth": 14.57,
+    "age": 8,
+    "name": "Abbott Dennis",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e2bbd9430ad8974fb",
+    "isAlive": true,
+    "worth": 30.15,
+    "age": 1,
+    "name": "Frye Swanson",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed5b29fa1c6fa0008",
+    "isAlive": true,
+    "worth": 46.15,
+    "age": 1,
+    "name": "Kline Phelps",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e4923dc53f99299ef",
+    "isAlive": true,
+    "worth": 17.09,
+    "age": 4,
+    "name": "Bonita Cooke",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e422cb8e13ba9e123",
+    "isAlive": true,
+    "worth": 6.15,
+    "age": 9,
+    "name": "Charmaine Marks",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e9cdda05c77b72f43",
+    "isAlive": true,
+    "worth": 9.02,
+    "age": 4,
+    "name": "Deborah Dominguez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e99b4db00831a5684",
+    "isAlive": true,
+    "worth": 10.05,
+    "age": 8,
+    "name": "Eddie Walsh",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4a3c4193ddaa0982",
+    "isAlive": true,
+    "worth": 47.26,
+    "age": 4,
+    "name": "Stone Harper",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e7edfc710600b1465",
+    "isAlive": false,
+    "worth": 47.1,
+    "age": 6,
+    "name": "Maxine Vang",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed3535b997990b09a",
+    "isAlive": true,
+    "worth": 38.3,
+    "age": 1,
+    "name": "Lowery Wilkinson",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e841263264b87a743",
+    "isAlive": true,
+    "worth": 27.45,
+    "age": 4,
+    "name": "Madelyn Randolph",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebdf4421ce959cd3f",
+    "isAlive": true,
+    "worth": 43.14,
+    "age": 5,
+    "name": "Lott Foley",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e0250dcdd98c6d4b6",
+    "isAlive": true,
+    "worth": 27.94,
+    "age": 5,
+    "name": "Marietta Yates",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e5d9756f8c9407e81",
+    "isAlive": true,
+    "worth": 40.63,
+    "age": 6,
+    "name": "Hilary Hammond",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e207b53b7388a5b24",
+    "isAlive": true,
+    "worth": 30.03,
+    "age": 9,
+    "name": "Morales Gibbs",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e1cb6c589294bf1e9",
+    "isAlive": false,
+    "worth": 43.87,
+    "age": 10,
+    "name": "Adriana Burgess",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e0ac7417633f2e606",
+    "isAlive": true,
+    "worth": 49.56,
+    "age": 8,
+    "name": "Frazier Hicks",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e411bcf1afdbb2593",
+    "isAlive": true,
+    "worth": 44.01,
+    "age": 4,
+    "name": "Ferguson Vasquez",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e9cda53ccffd9997b",
+    "isAlive": true,
+    "worth": 27.89,
+    "age": 1,
+    "name": "Anderson Conrad",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec501739bc1f125f1",
+    "isAlive": false,
+    "worth": 25.38,
+    "age": 1,
+    "name": "Estelle Burks",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e287f7be349d18808",
+    "isAlive": true,
+    "worth": 20.19,
+    "age": 7,
+    "name": "Briggs Middleton",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e33de419706860363",
+    "isAlive": false,
+    "worth": 17.62,
+    "age": 1,
+    "name": "Moss Kane",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e092c7a5e1acb816d",
+    "isAlive": true,
+    "worth": 20.63,
+    "age": 10,
+    "name": "Stokes Monroe",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8415a172537f8a75",
+    "isAlive": false,
+    "worth": 41.44,
+    "age": 1,
+    "name": "Viola Rhodes",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e2bfb38c323c68204",
+    "isAlive": false,
+    "worth": 33.86,
+    "age": 4,
+    "name": "Colleen Bennett",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed39d13098dde2f49",
+    "isAlive": true,
+    "worth": 7.57,
+    "age": 1,
+    "name": "Massey Foster",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e6b9cc52817c8c7c8",
+    "isAlive": false,
+    "worth": 19.6,
+    "age": 2,
+    "name": "Lopez Hughes",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e241e7b3ea54a502b",
+    "isAlive": true,
+    "worth": 42.52,
+    "age": 10,
+    "name": "Marie Ballard",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee24f1cd29b3c1cb5",
+    "isAlive": true,
+    "worth": 34.65,
+    "age": 8,
+    "name": "Yesenia Head",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ebb17b29115cb8a10",
+    "isAlive": false,
+    "worth": 48.72,
+    "age": 9,
+    "name": "Hess James",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e208bd8618bd0d0a6",
+    "isAlive": true,
+    "worth": 20.74,
+    "age": 5,
+    "name": "Marian Stanton",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed0a162ba67153fc9",
+    "isAlive": false,
+    "worth": 36.25,
+    "age": 10,
+    "name": "Madden Newton",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e237f8e9a74075609",
+    "isAlive": true,
+    "worth": 8.17,
+    "age": 10,
+    "name": "Alma Ramos",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e3d88dbbfea607adc",
+    "isAlive": true,
+    "worth": 25.56,
+    "age": 3,
+    "name": "Alisha Hernandez",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e5f71d3440d824d7d",
+    "isAlive": false,
+    "worth": 10.6,
+    "age": 5,
+    "name": "Chan Rogers",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eef16762b5a4e3747",
+    "isAlive": true,
+    "worth": 21.57,
+    "age": 1,
+    "name": "Harmon Schneider",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed13e081690ead224",
+    "isAlive": true,
+    "worth": 14.31,
+    "age": 7,
+    "name": "Cotton Baldwin",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea49754a190f74bb9",
+    "isAlive": true,
+    "worth": 23.23,
+    "age": 7,
+    "name": "Olsen Rasmussen",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e79eadca05c1dce0e",
+    "isAlive": true,
+    "worth": 37.54,
+    "age": 6,
+    "name": "Sherri Crawford",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e1f09f658556117ba",
+    "isAlive": true,
+    "worth": 16.48,
+    "age": 1,
+    "name": "Rivera Ratliff",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb0b98bf3168e8895",
+    "isAlive": false,
+    "worth": 12.34,
+    "age": 6,
+    "name": "Gallagher Ruiz",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e582caca8aa1e717c",
+    "isAlive": false,
+    "worth": 6.92,
+    "age": 1,
+    "name": "Bonner Torres",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eb42fef55d264cda3",
+    "isAlive": true,
+    "worth": 32.37,
+    "age": 7,
+    "name": "Anna Dean",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e55fff6610e49d37a",
+    "isAlive": true,
+    "worth": 45.24,
+    "age": 8,
+    "name": "Terrell Bishop",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e44540b8eaad07dad",
+    "isAlive": false,
+    "worth": 41.22,
+    "age": 4,
+    "name": "Chapman Welch",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ecfec1424dbd5e57f",
+    "isAlive": true,
+    "worth": 5.16,
+    "age": 3,
+    "name": "Celina Ford",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34efcf862cb4f00e1e1",
+    "isAlive": true,
+    "worth": 21.85,
+    "age": 9,
+    "name": "Monica Elliott",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e2f153dd5e30f5681",
+    "isAlive": false,
+    "worth": 26.64,
+    "age": 7,
+    "name": "Huff Collier",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ec6d1510bf1e775a9",
+    "isAlive": true,
+    "worth": 30.02,
+    "age": 1,
+    "name": "Margarita Wilder",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e9bc82269b87bc0d0",
+    "isAlive": true,
+    "worth": 7.08,
+    "age": 8,
+    "name": "Mayra Patrick",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34efe67df9a46506ea4",
+    "isAlive": true,
+    "worth": 17.91,
+    "age": 9,
+    "name": "Lamb Sykes",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e7b5e537c2a7179e6",
+    "isAlive": false,
+    "worth": 24.22,
+    "age": 8,
+    "name": "Georgette Collins",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eeeab21ce02ba8731",
+    "isAlive": true,
+    "worth": 8.71,
+    "age": 8,
+    "name": "Willa Duke",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee744a63efa144204",
+    "isAlive": false,
+    "worth": 17.84,
+    "age": 6,
+    "name": "Florine Humphrey",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e86c228e65297079b",
+    "isAlive": false,
+    "worth": 47.25,
+    "age": 9,
+    "name": "Duncan Riggs",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4d7bb62a5148ad80",
+    "isAlive": false,
+    "worth": 44.52,
+    "age": 9,
+    "name": "Sonja Cortez",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e04a23bd191654f4d",
+    "isAlive": false,
+    "worth": 9.04,
+    "age": 4,
+    "name": "Hill Ferrell",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e0487f299c2fe8789",
+    "isAlive": true,
+    "worth": 27.37,
+    "age": 1,
+    "name": "Conley Atkins",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e4b2e138185a678b4",
+    "isAlive": true,
+    "worth": 41.9,
+    "age": 8,
+    "name": "Pierce Osborne",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34efa2deef2f76e6024",
+    "isAlive": false,
+    "worth": 9.58,
+    "age": 3,
+    "name": "Janice Newman",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e1a93c7107590fdb8",
+    "isAlive": true,
+    "worth": 25.19,
+    "age": 9,
+    "name": "Genevieve Doyle",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e60c6c64fc1949cb5",
+    "isAlive": false,
+    "worth": 30.83,
+    "age": 5,
+    "name": "Cathryn Simpson",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e9adb67542e8b7419",
+    "isAlive": true,
+    "worth": 26.2,
+    "age": 4,
+    "name": "Sloan Montgomery",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e0d912a9842df26f8",
+    "isAlive": true,
+    "worth": 32.14,
+    "age": 7,
+    "name": "Oliver Suarez",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e4b8afabaa1ecf695",
+    "isAlive": false,
+    "worth": 19.87,
+    "age": 6,
+    "name": "Allen Weaver",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e234fb70e828a6bfc",
+    "isAlive": true,
+    "worth": 18.05,
+    "age": 6,
+    "name": "Carrie Hodges",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e2cfd0a7ef5cda54d",
+    "isAlive": false,
+    "worth": 27.98,
+    "age": 7,
+    "name": "Tillman Browning",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ec5cba0295366f637",
+    "isAlive": true,
+    "worth": 26.35,
+    "age": 10,
+    "name": "Harper Lambert",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eda91d7530d5691c5",
+    "isAlive": true,
+    "worth": 35.69,
+    "age": 10,
+    "name": "Adela Sharp",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e64069f1cc55824fc",
+    "isAlive": false,
+    "worth": 5.44,
+    "age": 1,
+    "name": "Rivas Santana",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0e846e179283e4f6",
+    "isAlive": true,
+    "worth": 30.55,
+    "age": 8,
+    "name": "Shelby Haley",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e8dca1ddb9edcbc48",
+    "isAlive": true,
+    "worth": 14.98,
+    "age": 8,
+    "name": "Shana Mccall",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e83f16960e7f3b917",
+    "isAlive": false,
+    "worth": 16.68,
+    "age": 7,
+    "name": "Lilly Nieves",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e2edd719a2cce42ca",
+    "isAlive": true,
+    "worth": 16.57,
+    "age": 3,
+    "name": "Casey Day",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e5edd4c235d07ccc2",
+    "isAlive": false,
+    "worth": 49.1,
+    "age": 2,
+    "name": "Elinor Jennings",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34eafcfd442dd6d8243",
+    "isAlive": true,
+    "worth": 7.98,
+    "age": 5,
+    "name": "Ingrid Cleveland",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e33682df6b2185ac8",
+    "isAlive": true,
+    "worth": 19.83,
+    "age": 1,
+    "name": "Stephens Britt",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e248e446e3c5cbebd",
+    "isAlive": false,
+    "worth": 13.39,
+    "age": 4,
+    "name": "Ada Munoz",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e50bda87ff65d0bb0",
+    "isAlive": false,
+    "worth": 32.3,
+    "age": 7,
+    "name": "Chris Washington",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e6e61153fdb459e71",
+    "isAlive": false,
+    "worth": 36.07,
+    "age": 6,
+    "name": "Kenya Bryan",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e860eae28e919ebba",
+    "isAlive": false,
+    "worth": 33.55,
+    "age": 8,
+    "name": "Lorrie Cochran",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e938671d78072bcd9",
+    "isAlive": true,
+    "worth": 13.25,
+    "age": 10,
+    "name": "Wilkins Bruce",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e22bcba65fd693aeb",
+    "isAlive": false,
+    "worth": 6.14,
+    "age": 10,
+    "name": "Juarez Lowe",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e78c6e79d2e710eea",
+    "isAlive": false,
+    "worth": 14.13,
+    "age": 2,
+    "name": "James Wyatt",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ee46d149a66974a2c",
+    "isAlive": true,
+    "worth": 38.32,
+    "age": 6,
+    "name": "Wells Nash",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ece284ace158e903c",
+    "isAlive": false,
+    "worth": 12.42,
+    "age": 8,
+    "name": "Judith Gay",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e21621c372bbfe0ba",
+    "isAlive": true,
+    "worth": 7.23,
+    "age": 5,
+    "name": "Beatrice Trujillo",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ee4dd9e84d256168c",
+    "isAlive": false,
+    "worth": 26.45,
+    "age": 1,
+    "name": "Lelia Ashley",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ebadaf7898073c1c0",
+    "isAlive": false,
+    "worth": 46.75,
+    "age": 10,
+    "name": "Addie Anderson",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e0c3dcb263d329d38",
+    "isAlive": false,
+    "worth": 24.46,
+    "age": 2,
+    "name": "Stark Fuller",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec8766ee4353420b8",
+    "isAlive": true,
+    "worth": 8,
+    "age": 3,
+    "name": "Jewell Maddox",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e8b313fb1f0c0f63c",
+    "isAlive": true,
+    "worth": 24.98,
+    "age": 1,
+    "name": "Angelita Maldonado",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eabd6bb35a278b5d5",
+    "isAlive": true,
+    "worth": 24.32,
+    "age": 6,
+    "name": "Small Vaughn",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ee8e0fe141439baf1",
+    "isAlive": false,
+    "worth": 8.5,
+    "age": 7,
+    "name": "Fletcher Weeks",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec25e7aa5efb0cb53",
+    "isAlive": false,
+    "worth": 38.64,
+    "age": 5,
+    "name": "Whitehead Fry",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eb8e141353f3db036",
+    "isAlive": false,
+    "worth": 7.86,
+    "age": 8,
+    "name": "Wiley Tate",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ec0b535b82e625454",
+    "isAlive": false,
+    "worth": 22.95,
+    "age": 2,
+    "name": "Moreno Rosa",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e6f8fb5cf8096c8aa",
+    "isAlive": false,
+    "worth": 22.38,
+    "age": 5,
+    "name": "Heather Albert",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4ecf64fa21ac49ab",
+    "isAlive": true,
+    "worth": 24.16,
+    "age": 1,
+    "name": "Thornton Boyd",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb64f2fc3489ead82",
+    "isAlive": false,
+    "worth": 28.51,
+    "age": 6,
+    "name": "Marsha Mcclure",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ef3ddd1607887aa47",
+    "isAlive": true,
+    "worth": 42.9,
+    "age": 9,
+    "name": "Alyssa Bray",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ec2c24497ecfb6ffc",
+    "isAlive": false,
+    "worth": 25.2,
+    "age": 7,
+    "name": "Meyers Burch",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34eca41ac9cb9ecf81a",
+    "isAlive": false,
+    "worth": 28.29,
+    "age": 3,
+    "name": "Pat Logan",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4960794cfe601b9f",
+    "isAlive": true,
+    "worth": 44.39,
+    "age": 5,
+    "name": "Parks Moon",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e774bb3ac9769f598",
+    "isAlive": false,
+    "worth": 27.51,
+    "age": 9,
+    "name": "Rosemary Perez",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eb7f6a5c65471a879",
+    "isAlive": true,
+    "worth": 5.7,
+    "age": 4,
+    "name": "Tanisha Cross",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e64d3f13f12dd0f4d",
+    "isAlive": true,
+    "worth": 23.55,
+    "age": 4,
+    "name": "Haynes Mccarthy",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34edf6f18e6722e2bfb",
+    "isAlive": false,
+    "worth": 44.46,
+    "age": 4,
+    "name": "Holland Wagner",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e1ed68d930a19e684",
+    "isAlive": false,
+    "worth": 11.87,
+    "age": 2,
+    "name": "Dennis Hall",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ef6bb2023ceee331f",
+    "isAlive": true,
+    "worth": 31.12,
+    "age": 5,
+    "name": "Mcmillan Vega",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e674cf97f71322789",
+    "isAlive": false,
+    "worth": 32.5,
+    "age": 8,
+    "name": "Neal Mcconnell",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e2aa5ccce1173c90b",
+    "isAlive": false,
+    "worth": 38.93,
+    "age": 5,
+    "name": "Hubbard Obrien",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e94df086c98f763d6",
+    "isAlive": true,
+    "worth": 12.04,
+    "age": 5,
+    "name": "Socorro Lindsey",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eba1085d29d8620f3",
+    "isAlive": false,
+    "worth": 12.17,
+    "age": 7,
+    "name": "Mcdonald Gould",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e806f7afb8c9e05d0",
+    "isAlive": false,
+    "worth": 18.97,
+    "age": 4,
+    "name": "Stefanie Patton",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ef2de86353fa8c9ad",
+    "isAlive": true,
+    "worth": 29.58,
+    "age": 1,
+    "name": "Pittman Gillespie",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e15d04e5c657b5042",
+    "isAlive": true,
+    "worth": 41.37,
+    "age": 9,
+    "name": "Bernice Blanchard",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ef50d4372e556df25",
+    "isAlive": false,
+    "worth": 41.53,
+    "age": 5,
+    "name": "Leah Chen",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ed3a03d6a9a208cac",
+    "isAlive": true,
+    "worth": 5.63,
+    "age": 9,
+    "name": "Webb Dyer",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ee90327af91c05ab9",
+    "isAlive": false,
+    "worth": 16.52,
+    "age": 5,
+    "name": "Erna Freeman",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e0babfa096cc45ff6",
+    "isAlive": false,
+    "worth": 48.74,
+    "age": 4,
+    "name": "Vega Beasley",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e2545c557a79e87b3",
+    "isAlive": true,
+    "worth": 9.22,
+    "age": 8,
+    "name": "Freeman Warner",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34eeab4d22e9bafa732",
+    "isAlive": true,
+    "worth": 26.53,
+    "age": 8,
+    "name": "Underwood Walls",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e2bebd76a579e3f59",
+    "isAlive": true,
+    "worth": 22.51,
+    "age": 7,
+    "name": "Carmela Frazier",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e3ee751048816f852",
+    "isAlive": true,
+    "worth": 48,
+    "age": 9,
+    "name": "Lynne Willis",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ea14f79d78722eb56",
+    "isAlive": true,
+    "worth": 6.07,
+    "age": 1,
+    "name": "Logan Norton",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e60d8cab0f6005c09",
+    "isAlive": true,
+    "worth": 49.48,
+    "age": 7,
+    "name": "Hyde Nelson",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e28247bf5288050a6",
+    "isAlive": true,
+    "worth": 10.64,
+    "age": 5,
+    "name": "Agnes Hull",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ece2fc93c3a371ead",
+    "isAlive": false,
+    "worth": 33.08,
+    "age": 9,
+    "name": "York Boone",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ea6e31fc6e79101e1",
+    "isAlive": false,
+    "worth": 37.7,
+    "age": 6,
+    "name": "Burt Best",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e66db79699c2911a1",
+    "isAlive": true,
+    "worth": 49.93,
+    "age": 6,
+    "name": "Booth Mcgowan",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e54472744dc96276f",
+    "isAlive": true,
+    "worth": 45.12,
+    "age": 6,
+    "name": "Shari Fletcher",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ed0b2e47e600afc36",
+    "isAlive": false,
+    "worth": 8.86,
+    "age": 1,
+    "name": "Rosanna Franco",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34ea32299ecd3f547c0",
+    "isAlive": false,
+    "worth": 42.95,
+    "age": 10,
+    "name": "Herrera Vazquez",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ed6c078ed90df406f",
+    "isAlive": false,
+    "worth": 14.22,
+    "age": 3,
+    "name": "Everett Dunlap",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34eb03ca5341744f4e6",
+    "isAlive": false,
+    "worth": 18.06,
+    "age": 2,
+    "name": "Joyner Madden",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e064c9bb5c69d74c2",
+    "isAlive": true,
+    "worth": 25.63,
+    "age": 2,
+    "name": "Stevens Simmons",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34ef46e7c90ab3a1fbf",
+    "isAlive": true,
+    "worth": 12.94,
+    "age": 8,
+    "name": "Sherry Garrison",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34ee1d8035716c87464",
+    "isAlive": true,
+    "worth": 15.17,
+    "age": 5,
+    "name": "Mullen Moran",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e4919e76e1d2635a5",
+    "isAlive": false,
+    "worth": 22.97,
+    "age": 1,
+    "name": "Butler Craig",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e049ec025f4a9a7b7",
+    "isAlive": true,
+    "worth": 13.64,
+    "age": 8,
+    "name": "Tania Odom",
+    "gender": "female",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e14dc9cfabb5ee9a5",
+    "isAlive": false,
+    "worth": 20.37,
+    "age": 7,
+    "name": "Ila Carlson",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e0baf53215952ab8c",
+    "isAlive": false,
+    "worth": 15.63,
+    "age": 8,
+    "name": "Wyatt Wright",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e3656b93065763914",
+    "isAlive": false,
+    "worth": 44.97,
+    "age": 4,
+    "name": "Rutledge Brady",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e22191f2994077f4e",
+    "isAlive": false,
+    "worth": 49.61,
+    "age": 5,
+    "name": "Tonya Pennington",
+    "gender": "female",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34e7c0374704614d97c",
+    "isAlive": true,
+    "worth": 6.97,
+    "age": 4,
+    "name": "Price Maxwell",
+    "gender": "male",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34e2ab910037df108a1",
+    "isAlive": false,
+    "worth": 28.33,
+    "age": 8,
+    "name": "Salas Blake",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34ed44c57224a9558e4",
+    "isAlive": false,
+    "worth": 13.79,
+    "age": 4,
+    "name": "Marcia Cooley",
+    "gender": "female",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e23234ccd866c9322",
+    "isAlive": true,
+    "worth": 28.53,
+    "age": 6,
+    "name": "Mcpherson Howell",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ed8aa799eb3a3a470",
+    "isAlive": false,
+    "worth": 37.8,
+    "age": 9,
+    "name": "Nelda Ingram",
+    "gender": "female",
+    "animalType": "chicken"
+  },
+  {
+    "_id": "6690e34eb172af2da81a9c79",
+    "isAlive": true,
+    "worth": 36.95,
+    "age": 2,
+    "name": "Whitley Schwartz",
+    "gender": "male",
+    "animalType": "sheep"
+  },
+  {
+    "_id": "6690e34ecc90bfd412ce3755",
+    "isAlive": false,
+    "worth": 28.29,
+    "age": 5,
+    "name": "Richard Lowery",
+    "gender": "male",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e00d5ee776a774872",
+    "isAlive": true,
+    "worth": 10.69,
+    "age": 10,
+    "name": "Hayden Fox",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34e06575dc3aac3a804",
+    "isAlive": false,
+    "worth": 45.67,
+    "age": 1,
+    "name": "Cervantes Rosales",
+    "gender": "male",
+    "animalType": "pig"
+  },
+  {
+    "_id": "6690e34e7c399771da7550de",
+    "isAlive": false,
+    "worth": 8.23,
+    "age": 4,
+    "name": "Petty Puckett",
+    "gender": "male",
+    "animalType": "cow"
+  },
+  {
+    "_id": "6690e34edc4d6329428aaf8c",
+    "isAlive": false,
+    "worth": 16.67,
+    "age": 1,
+    "name": "Ellen Powell",
+    "gender": "female",
+    "animalType": "goat"
+  },
+  {
+    "_id": "6690e34e860f0cef856a9743",
+    "isAlive": false,
+    "worth": 11.98,
+    "age": 5,
+    "name": "Loraine Macdonald",
+    "gender": "female",
+    "animalType": "goat"
+  }
+]

@@ -1,12 +1,15 @@
 import express from "express";
 import employees from "./employees.json";
+import cors from "cors";
+import { addAnimalsEndpoint } from "./farm-challenge/farmChallenge";
 
 const app = express();
 const port = 4000;
 
+app.use(cors());
+
 app.get("/players", async (req, res) => {
   await sleep(1000);
-  res.header("Access-Control-Allow-Origin", "*");
   res.send([
     {
       id: 1,
@@ -46,26 +49,27 @@ app.get("/players", async (req, res) => {
 app.get("/employees", async (req, res) => {
   await sleep(1000);
   const search = req.query.search as string | undefined;
-  res.header("Access-Control-Allow-Origin", "*");
 
   const employeesWithId = employees.map((employee, index) => ({
     id: index + 1,
     ...employee,
   }));
 
-  res.send(
-    search
-      ? employeesWithId
-          .filter(
-            (e) =>
-              e.firstName.includes(search) ||
-              e.surName.includes(search) ||
-              e.address.includes(search)
-          )
-          .slice(0, 10)
-      : employeesWithId.slice(0, 10)
-  );
+  const finalEmployees = search
+    ? employeesWithId
+        .filter(
+          (e) =>
+            e.firstName.includes(search) ||
+            e.surName.includes(search) ||
+            e.address.includes(search)
+        )
+        .slice(0, 10)
+    : employeesWithId.slice(0, 10);
+
+  res.send(finalEmployees);
 });
+
+addAnimalsEndpoint(app);
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
