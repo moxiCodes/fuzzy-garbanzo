@@ -4,6 +4,8 @@ import { AnimalTypeSelect, SelectAnimalType } from "./AnimalTypeSelect";
 export const FarmChallengePage = () => {
   const [animalType, setAnimalType] = useState<SelectAnimalType>("");
 
+  console.log("animalType", animalType);
+
   return (
     <>
       <h1>Farm Database</h1>

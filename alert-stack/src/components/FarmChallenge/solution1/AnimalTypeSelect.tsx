@@ -1,6 +1,6 @@
 import { FormControl, InputLabel, MenuItem, Select } from "@mui/material";
-import { useAnimalTypes } from "./useAnimalTypes";
 import { AnimalType } from "./types";
+import { useOptionInfo } from "./useOptionInfo";
 
 export type SelectAnimalType = AnimalType | "";
 
@@ -13,7 +13,8 @@ export const AnimalTypeSelect = ({
   animalType,
   onAnimalTypeChanged,
 }: AnimalTypeSearchProps) => {
-  const animalTypes = useAnimalTypes();
+  const animalTypes = useOptionInfo<AnimalType>("/animal-types");
+
   return (
     <FormControl variant="standard" sx={{ m: 1, minWidth: 300 }}>
       <InputLabel id="animal-type-select-label">Animal Type</InputLabel>
