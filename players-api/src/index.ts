@@ -2,11 +2,14 @@ import express from "express";
 import employees from "./employees.json";
 import cors from "cors";
 import { addAnimalsEndpoint } from "./farm-challenge/farmChallenge";
+import { addChefsEndpoints } from "./chefs/chefs";
+import bodyParser from "body-parser";
 
 const app = express();
 const port = 4000;
 
 app.use(cors());
+app.use(bodyParser.json());
 
 app.get("/players", async (req, res) => {
   await sleep(1000);
@@ -70,6 +73,7 @@ app.get("/employees", async (req, res) => {
 });
 
 addAnimalsEndpoint(app);
+addChefsEndpoints(app);
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
