@@ -19,7 +19,8 @@ export const addChefsEndpoints = (app: Express) => {
 
     const chefResults: ChefResult[] = chefs
       .filter((chef) => chefIds.includes(chef.id))
-      .map(({ name, jobTitle }) => ({
+      .map(({ id, name, jobTitle }) => ({
+        id,
         name,
         jobTitle,
         isSuccess: getSuccess(),

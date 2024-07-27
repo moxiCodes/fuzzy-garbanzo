@@ -18,7 +18,7 @@ export type Chef = {
 };
 
 // https://www.typescriptlang.org/docs/handbook/utility-types.html
-export type ChefResult = Pick<Chef, "name" | "jobTitle"> & {
+export type ChefResult = Pick<Chef, "id" | "name" | "jobTitle"> & {
   isSuccess: boolean;
 };
 
