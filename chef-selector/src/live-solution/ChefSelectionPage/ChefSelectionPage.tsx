@@ -2,8 +2,8 @@ import { useState } from "react";
 import { ChefsTable } from "../ChefsTable/ChefsTable";
 import { StyledButton } from "../Button/StyledButton.styled";
 import { useChefs } from "./useChefs";
-import { JobTitleFilter } from "../../solution/JobTitleFilter/JobTitleFilter";
 import { ChefJobTitle } from "../../types";
+import { JobTitleFilter } from "../JobTitleFilter/JobTitleFilter";
 
 type ChefSelectionPageProps = {
   onPromote: (promotedIds: number[]) => void;
