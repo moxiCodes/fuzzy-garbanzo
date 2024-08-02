@@ -11,6 +11,7 @@ import { StyledButton } from "../Button/StyledButton.styled";
 import { StyledTableContainer } from "../Table/StyledTableContainer.styled";
 import { Chef } from "../../types";
 import { useState } from "react";
+import { DisplayMichelinStars } from "./DisplayMichelinStars";
 
 type ChefsTableProps = {
   buttonText: string;
@@ -52,7 +53,9 @@ export const ChefsTable = ({
                 <TableRow key={id}>
                   <TableCell>{name}</TableCell>
                   <TableCell>{jobTitle}</TableCell>
-                  <TableCell>{michelinStars}</TableCell>
+                  <TableCell>
+                    <DisplayMichelinStars stars={michelinStars} />
+                  </TableCell>
                   <TableCell>{trainingProgress}</TableCell>
                   <TableCell>
                     <Checkbox
@@ -69,7 +72,11 @@ export const ChefsTable = ({
       </StyledTableContainer>
       <Box>
         <StyledButton
-          onClick={() => onSelected(selectedIds)}
+          onClick={() => {
+            onSelected(selectedIds);
+            //We need to clear the selection every time we click because those people will be removed and aren't selectable
+            setSelectedIds([]);
+          }}
           disabled={selectedIds.length === 0}
           variant="outlined"
         >
