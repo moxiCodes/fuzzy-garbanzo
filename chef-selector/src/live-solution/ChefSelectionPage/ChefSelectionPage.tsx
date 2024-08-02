@@ -1,28 +1,29 @@
-import { useEffect, useState } from "react";
-import { Chef } from "../../types";
+import { useState } from "react";
 import { ChefsTable } from "../ChefsTable/ChefsTable";
-import axios from "axios";
 import { StyledButton } from "../Button/StyledButton.styled";
+import { useChefs } from "./useChefs";
+import { JobTitleFilter } from "../../solution/JobTitleFilter/JobTitleFilter";
+import { ChefJobTitle } from "../../types";
 
-export const ChefSelectionPage = () => {
-  const [chefs, setChefs] = useState<Chef[]>([]);
+type ChefSelectionPageProps = {
+  onPromote: (promotedIds: number[]) => void;
+};
+
+export const ChefSelectionPage = ({ onPromote }: ChefSelectionPageProps) => {
+  const chefs = useChefs();
   const [selectedIds, setSelectedIds] = useState<number[]>([]);
+  const [filter, setFilter] = useState<ChefJobTitle | undefined>(undefined);
 
-  useEffect(() => {
-    const getChefs = async () => {
-      const { data: chefs } = await axios.get<Chef[]>("/available");
-      setChefs(chefs);
-    };
-
-    getChefs();
-  }, []);
-
-  const availableChefs = chefs.filter(({ id }) => !selectedIds.includes(id));
+  const availableChefs = chefs.filter(
+    ({ id, jobTitle }) =>
+      (!selectedIds.includes(id) && filter === undefined) || filter === jobTitle
+  );
   const selectedChefs = chefs.filter(({ id }) => selectedIds.includes(id));
 
   return (
     <>
       <h1>Select Chefs</h1>
+      <JobTitleFilter jobTitle={filter} onJobTitleChanged={setFilter} />
       <ChefsTable
         chefs={availableChefs}
         buttonText={"Select"}
@@ -40,7 +41,11 @@ export const ChefSelectionPage = () => {
         }
       />
 
-      <StyledButton disabled={selectedChefs.length === 0} variant="outlined">
+      <StyledButton
+        onClick={() => onPromote(selectedIds)}
+        disabled={selectedChefs.length === 0}
+        variant="outlined"
+      >
         Promote
       </StyledButton>
     </>

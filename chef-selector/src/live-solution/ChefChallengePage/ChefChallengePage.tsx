@@ -9,9 +9,9 @@ export const ChefChallengePage = () => {
   return (
     <StyledChefChallengePage>
       {chefIds.length === 0 ? (
-        <ChefSelectionPage />
+        <ChefSelectionPage onPromote={setChefIds} />
       ) : (
-        <ResultsPage onBack={() => setChefIds([])} />
+        <ResultsPage onBack={() => setChefIds([])} promotedIds={chefIds} />
       )}
     </StyledChefChallengePage>
   );
