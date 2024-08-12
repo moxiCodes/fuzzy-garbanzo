@@ -8,7 +8,7 @@ export const generateToken = (payload: JwtUser) => {
   console.log("token generated:", payload);
 
   const options: SignOptions = {
-    expiresIn: "30s",
+    expiresIn: "4h",
   };
 
   return jwt.sign(payload, SECRET_KEY, options);
