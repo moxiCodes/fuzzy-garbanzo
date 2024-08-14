@@ -3,7 +3,6 @@ export type Transaction = {
   timestamp: number;
   type: "deposit" | "withdrawal";
   amount: number;
-  reference?: string;
 };
 
 export const transactions: { [key: number]: Transaction[] } = {

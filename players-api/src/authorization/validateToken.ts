@@ -17,7 +17,7 @@ export const getValidateTokenMiddleware = (minimumAccess: UserAccess) => {
     ];
 
     if (token === undefined) {
-      res.status(StatusCodes.FORBIDDEN).json({
+      res.status(StatusCodes.UNAUTHORIZED).json({
         success: false,
         message: "Token is not provided",
       });
@@ -27,16 +27,16 @@ export const getValidateTokenMiddleware = (minimumAccess: UserAccess) => {
     jwt.verify(token, SECRET_KEY, (err, payload) => {
       if (err) {
         console.log(err.message);
-        return res.status(401).json({
+        return res.status(StatusCodes.UNAUTHORIZED).json({
           success: false,
           message: "Invalid token",
         });
       } else {
         const userPayload = payload as JwtUserPayload;
         if (!userPayload.access.includes(minimumAccess)) {
-          return res.status(403).json({
+          return res.status(StatusCodes.FORBIDDEN).json({
             success: false,
-            message: `Invalid use access level,required=${minimumAccess}`,
+            message: `Invalid user access level,required=${minimumAccess}`,
           });
         }
         req.user = userPayload;
@@ -44,17 +44,4 @@ export const getValidateTokenMiddleware = (minimumAccess: UserAccess) => {
       }
     });
   };
-};
-
-// Your custom "middleware" function:
-
-const jwtVerify = async (token: string): Promise<string> => {
-  return new Promise((resolve, reject) => {
-    jwt.verify(token, SECRET_KEY, (err, payload) => {
-      if (err === null) {
-        resolve(payload!?.toString());
-      }
-      reject(err);
-    });
-  });
 };

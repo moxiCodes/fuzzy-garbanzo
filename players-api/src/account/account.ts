@@ -16,4 +16,12 @@ export const addAccountsEndpoints = (app: Express) => {
       res.send(transactions[id] ?? []);
     }
   );
+
+  app.get<{}, string>(
+    "/accounts/admin",
+    getValidateTokenMiddleware("Admin"),
+    async (req, res) => {
+      res.send("The secret word is 'umbrella'");
+    }
+  );
 };
