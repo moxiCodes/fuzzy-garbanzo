@@ -1,16 +1,17 @@
 import { Checkbox, TableBody, TableCell, TableRow } from '@mui/material'
+import { AnimalData } from '../../types/types'
 
 const tableRowSx = {
   '&:nth-of-type(even)': {
     backgroundColor: '#EEEEEE',
   },
 }
-const tableImgStyles = { width: '50px', borderRadius: '10px' }
+const tableImgStyles = { width: '24px', borderRadius: '5px' }
 
-const StyledTableBody = ({ rows }: { rows: Record<any, any>[] }) => {
+const StyledTableBody = ({ rows }: { rows: AnimalData[] }) => {
   return (
     <TableBody>
-      {rows.map((row: Record<any, any>) => (
+      {rows.map((row: AnimalData) => (
         <TableRow key={row.name} sx={tableRowSx}>
           <TableCell align="left">
             <img

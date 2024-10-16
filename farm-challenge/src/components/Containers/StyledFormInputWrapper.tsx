@@ -1,7 +1,7 @@
 import { FormControl } from '@mui/material'
 import { ReactNode } from 'react'
 
-const StyledFormControl = ({ children }: { children: ReactNode }) => {
+const StyledFormInputWrapper = ({ children }: { children: ReactNode }) => {
   return (
     <FormControl
       sx={{
@@ -16,4 +16,4 @@ const StyledFormControl = ({ children }: { children: ReactNode }) => {
   )
 }
 
-export default StyledFormControl
+export default StyledFormInputWrapper

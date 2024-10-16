@@ -1,33 +1,24 @@
-export type AnimalType =
-  | 'chicken'
-  | 'cow'
-  | 'goat'
-  | 'pig'
-  | 'sheep'
-  | 'none'
-  | ''
-export type OrderType = 'age' | 'name' | 'worth' | 'none' | ''
-
-export type SelectorType = {
-  id: string
-  label: string
-  menuItems: Partial<Record<AnimalType | OrderType, string>>
-  stateValue: string
-  setter: (value: OrderType | AnimalType | string) => void
+export type AnimalData = {
+  _id: string
+  isAlive: boolean
+  worth: number
+  age: number
+  name: string
+  gender: 'male' | 'female'
+  animalType: AnimalType
 }
 
-export type TextInputType = {
-  id: string
-  stateValue: string
-  setter: (value: string) => void
-  performUpdate: updateQueryStringFnType
+export type AnimalType = 'chicken' | 'cow' | 'goat' | 'pig' | 'sheep' | 'none'
+
+export type SortByOptions = 'age' | 'name' | 'worth' | 'none'
+
+export type QueryParamsType = {
+  name: string
+  type: AnimalType | ''
+  order: SortByOptions | ''
 }
 
-export type updateQueryStringFnType = {
-  (
-    newParamValue: string,
-    paramKey: string,
-    previousParamValue: string,
-    paramStateSetter: (value: string) => void,
-  ): void
+export type OptionInfo<T> = {
+  type: T
+  displayName: string
 }

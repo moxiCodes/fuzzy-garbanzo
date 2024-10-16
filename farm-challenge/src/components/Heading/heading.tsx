@@ -1,6 +1,6 @@
 import { Container, Typography } from '@mui/material'
 import AgricultureRoundedIcon from '@mui/icons-material/AgricultureRounded'
-const HeadingWithTagline = () => {
+const Heading = () => {
   return (
     <Container disableGutters>
       {' '}
@@ -15,4 +15,4 @@ const HeadingWithTagline = () => {
   )
 }
 
-export default HeadingWithTagline
+export default Heading

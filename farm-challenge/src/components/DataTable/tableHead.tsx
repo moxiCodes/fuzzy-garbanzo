@@ -1,6 +1,15 @@
 import { TableCell, TableHead, TableRow, Typography } from '@mui/material'
 
-const StyledTableHead = ({ columns }: { columns: string[] }) => {
+const columns = [
+  'HeadShot',
+  'Name',
+  'Age',
+  'Pronouns',
+  'Type',
+  'Worth',
+  'Angel Status',
+]
+const StyledTableHead = () => {
   return (
     <TableHead sx={{ backgroundColor: '#EEEEEE' }}>
       <TableRow>

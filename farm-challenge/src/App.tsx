@@ -1,84 +1,53 @@
-import { Container } from '@mui/material'
-import DataTable from './components/DataTable/DataTable'
-import TextInput from './components/TextInput/TextInput'
-import Selector from './components/Selector/Selector'
-import HeadingWithTagline from './components/HeadingWithTagline/HeadingWithTagline'
 import { useEffect, useState } from 'react'
+import { get } from './utils/get'
+import { genQuery } from './utils/gen-query-from-params'
+import { AnimalData, QueryParamsType } from './types/types'
 
-import axios from 'axios'
+import StyledContainer from './components/Containers/StyledContainer'
+import Heading from './components/Heading/heading'
+import { Container } from '@mui/material'
+import NameSearchField from './components/NameSearchField/nameSearchField'
+import OptionsSelector from './components/OptionsSelector/optionSelector'
+import DataTable from './components/DataTable/dataTable'
 
-import { useQueryString } from './hooks/useQueryString'
-import StyledContainer from './components/Container/StyledContainer'
-
-const animalTypeMenu = {
-  none: 'Any old thing...',
-  goat: 'Goat',
-  cow: 'Cow',
-  sheep: 'Sheep',
-  pig: 'Pig',
-}
-const animalOrderMenu = {
-  none: 'Any old way...',
-  age: 'Age',
-  worth: 'Worth',
-}
 const App = () => {
-  const [data, setData] = useState<Record<string, string>[] | string>(
-    'No Data Found',
-  )
-  const { updateQueryString, queryString } = useQueryString()
-  const [name, setName] = useState('')
-  const [type, setType] = useState('')
-  const [order, setOrder] = useState('')
-
-  const nameSetter = (value: string) => setName(value)
-
-  const typeSetter = (value: string) =>
-    updateQueryString(value, 'type', type, setType)
-
-  const orderSetter = (value: string) =>
-    updateQueryString(value, 'order', order, setOrder)
+  const [data, setData] = useState<AnimalData[]>([])
+  const [queryParams, setQueryParams] = useState<QueryParamsType>({
+    name: '',
+    type: '',
+    order: '',
+  })
+  const updateQueryParams = (key: string, value: string) =>
+    setQueryParams(prev => {
+      return { ...prev, [key]: value }
+    })
 
   const getAndSetData = async () => {
-    let resData
-    try {
-      resData = await axios.get(
-        `${process.env.REACT_APP_API_BASE_URL}/animals/${queryString}`,
-      )
-    } catch (error) {
-      console.log(error)
-    }
-    return resData?.data ? setData(resData.data) : setData('No Data Found')
+    const data = await get(`animals/${genQuery(queryParams)}`)
+    return setData(data)
   }
 
   useEffect(() => {
     getAndSetData()
-  }, [queryString])
+  }, [queryParams])
 
   return (
     <StyledContainer>
-      <HeadingWithTagline />
+      <Heading />
       <Container disableGutters>
         {' '}
-        <TextInput
-          id="name-input"
-          setter={nameSetter}
-          stateValue={name}
-          performUpdate={updateQueryString}
+        <NameSearchField handleSearch={updateQueryParams} />
+        <OptionsSelector
+          optionsEndpoint="animal-types"
+          labelId="type"
+          label="Choose type..."
+          handleSearch={updateQueryParams}
         />
-        <Selector
-          id="type-selector"
-          label="What Type?"
-          menuItems={animalTypeMenu}
-          setter={typeSetter}
-          stateValue={type}
-        />
-        <Selector
-          id="order-selector"
-          label="Which Order?"
-          menuItems={animalOrderMenu}
-          setter={orderSetter}
-          stateValue={order}
+        <OptionsSelector
+          optionsEndpoint="animal-sort-options"
+          labelId="order"
+          label="Choose order..."
+          handleSearch={updateQueryParams}
         />
       </Container>
       <DataTable data={data} />
