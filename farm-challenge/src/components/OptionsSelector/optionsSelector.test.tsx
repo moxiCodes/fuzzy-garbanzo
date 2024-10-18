@@ -1,4 +1,3 @@
-import axios from 'axios'
 import {
   render,
   screen,
@@ -9,13 +8,14 @@ import {
 import '@testing-library/jest-dom'
 import { userEvent } from '@testing-library/user-event'
 import OptionsSelector from './optionSelector'
+import { OptionInfo } from '../../types/types'
+import * as useApiCall from '../../hooks/useApiCall'
 
-jest.mock('axios')
-const mockedAxios = axios as jest.Mocked<typeof axios>
+type MockOptionsType = 'meow' | 'bark'
 const mockedOptions = [
-  { type: 'first-option', displayName: 'First Option' },
-  { type: 'second-option', displayName: 'Second Option' },
-]
+  { type: 'bark', displayName: 'Bark' },
+  { type: 'meow', displayName: 'Meow' },
+] as OptionInfo<MockOptionsType>[]
 
 const handleSearchMock = jest.fn()
 
@@ -24,13 +24,12 @@ let component: RenderResult
 
 describe(`Gets and displays options, handles user selection`, () => {
   beforeEach(async () => {
-    jest.clearAllMocks()
-    mockedAxios.get.mockResolvedValue({ data: mockedOptions })
+    jest.spyOn(useApiCall, 'useApiCall').mockImplementation(() => mockedOptions)
     component = render(
-      <OptionsSelector
+      <OptionsSelector<MockOptionsType>
         handleSearch={handleSearchMock}
         optionsEndpoint="endpoint"
-        labelId="test"
+        value={undefined}
         label="Choose Option"
       />,
     )
@@ -44,23 +43,17 @@ describe(`Gets and displays options, handles user selection`, () => {
   it('shows options populated from options endpoint', async () => {
     expect(dropDown.childElementCount).toBe(3)
     expect(dropDown.firstChild?.textContent).toBe('None')
-    expect(dropDown.lastChild?.textContent).toBe('Second Option')
+    expect(dropDown.lastChild?.textContent).toBe('Meow')
   })
-  it('updates value and triggers search handler when user selects an option', async () => {
-    await waitFor(() =>
-      userEvent.click(within(dropDown).getByText(/Second Option/i)),
-    )
+  it('Triggers search handler when user selects an option', async () => {
+    await waitFor(() => userEvent.click(within(dropDown).getByText(/Meow/i)))
 
-    expect(handleSearchMock).toHaveBeenCalledWith('test', 'second-option')
-    expect(component.container.querySelector('input')?.value).toBe(
-      'second-option',
-    )
+    expect(handleSearchMock).toHaveBeenCalledWith('meow')
   })
   it('handles no selection', async () => {
     await waitFor(() => userEvent.click(within(dropDown).getByText(/None/i)))
 
     expect(handleSearchMock.mock.calls.length).toBe(0)
-    expect(component.container.querySelector('input')?.value).toBe('')
   })
 })
 

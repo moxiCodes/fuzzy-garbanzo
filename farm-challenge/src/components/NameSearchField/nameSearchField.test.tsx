@@ -12,13 +12,13 @@ describe('Handles user searching by name', () => {
     input = component.container.querySelector('input')
   })
   it('updates value when user types', async () => {
-    input && (await waitFor(() => userEvent.type(input!, 'Kidd')))
+    await waitFor(() => userEvent.type(input!, 'Kidd'))
     expect(input?.value).toBe('Kidd')
   })
 
   it('calls handler when user presses Enter', async () => {
-    input && (await waitFor(() => userEvent.type(input!, 'Kidd{enter}')))
-    expect(handleSearchMock).toHaveBeenCalledWith('name', 'Kidd')
+    await waitFor(() => userEvent.type(input!, 'Kidd{enter}'))
+    expect(handleSearchMock).toHaveBeenCalledWith('Kidd')
   })
 })
 

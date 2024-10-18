@@ -1,51 +1,39 @@
-import { InputLabel, MenuItem, Select, SelectChangeEvent } from '@mui/material'
+import { InputLabel, MenuItem, Select } from '@mui/material'
 import StyledFormInputWrapper from '../Containers/StyledFormInputWrapper'
-import { useEffect, useState } from 'react'
-import { AnimalType, OptionInfo, SortByOptions } from '../../types/types'
-import { get } from '../../utils/get'
+import { OptionInfo } from '../../types/types'
+import { useApiCall } from '../../hooks/useApiCall'
+import { memo } from 'react'
 
-type OptionsSelectorPropsType = {
-  handleSearch: (key: string, param: string) => void
+type OptionsSelectorPropsType<T> = {
+  handleSearch: (value: T | undefined) => void
   optionsEndpoint: string
-  labelId: string
   label: string
+  value: T | undefined
 }
-const OptionsSelector = ({
-  optionsEndpoint,
-  labelId,
-  label,
+const OptionsSelector = <T extends string>({
   handleSearch,
-}: OptionsSelectorPropsType) => {
-  const [selection, setSelection] = useState('')
-  const [options, setOptions] = useState<
-    OptionInfo<SortByOptions | AnimalType>[]
-  >([])
+  optionsEndpoint,
+  label,
+  value,
+}: OptionsSelectorPropsType<T>) => {
+  const options = useApiCall<OptionInfo<T>>(optionsEndpoint)
 
-  const getOptions = async () => {
-    setOptions(await get(optionsEndpoint))
-  }
-  useEffect(() => {
-    getOptions()
-  })
-
-  const handleChange = ({ target }: SelectChangeEvent) => {
-    setSelection(target.value)
-    return handleSearch(labelId, target.value)
-  }
   return (
     <StyledFormInputWrapper>
-      <InputLabel id={`${labelId}-selector-label`}>{label}</InputLabel>
+      <InputLabel id="input">{label}</InputLabel>
       <Select
-        labelId={`${labelId}-selector-label`}
-        value={selection}
+        labelId="input"
+        value={value ?? ''}
         label={label}
-        onChange={handleChange}
+        onChange={({ target }) =>
+          handleSearch(target?.value ? (target?.value as T) : undefined)
+        }
       >
         <MenuItem value={''}>None</MenuItem>
         {options?.length &&
           options.map(option => {
             return (
-              <MenuItem key={`${option.type}`} value={option.type}>
+              <MenuItem key={option.type} value={option.type}>
                 {option.displayName}
               </MenuItem>
             )
@@ -55,4 +43,4 @@ const OptionsSelector = ({
   )
 }
 
-export default OptionsSelector
+export default memo(OptionsSelector) as typeof OptionsSelector

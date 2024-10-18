@@ -3,7 +3,7 @@ import { useState } from 'react'
 import StyledFormInputWrapper from '../Containers/StyledFormInputWrapper'
 
 type NameSearchFieldPropsType = {
-  handleSearch: (key: string, name: string) => void
+  handleSearch: (value: string) => void
 }
 const NameSearchField = ({ handleSearch }: NameSearchFieldPropsType) => {
   const [name, setName] = useState('')
@@ -15,7 +15,7 @@ const NameSearchField = ({ handleSearch }: NameSearchFieldPropsType) => {
         variant="outlined"
         label="Search by name..."
         onKeyDown={({ key }) => {
-          return key === 'Enter' && handleSearch('name', name)
+          return key === 'Enter' && handleSearch(name)
         }}
         onChange={({ target }) => setName(target.value)}
         value={name}
