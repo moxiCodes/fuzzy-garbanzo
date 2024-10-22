@@ -10,23 +10,23 @@ import { userEvent } from '@testing-library/user-event'
 import OptionsSelector from './optionSelector'
 import { OptionInfo } from '../../types/types'
 import * as useApiCall from '../../hooks/useApiCall'
-
-type MockOptionsType = 'meow' | 'bark'
-const mockedOptions = [
-  { type: 'bark', displayName: 'Bark' },
-  { type: 'meow', displayName: 'Meow' },
-] as OptionInfo<MockOptionsType>[]
+import {
+  MockOrderOptionsType,
+  mockedOrderOptions,
+} from '../../test-utils/mocks'
 
 const handleSearchMock = jest.fn()
 
 let dropDown: HTMLElement
 let component: RenderResult
 
-describe(`Gets and displays options, handles user selection`, () => {
+describe(`Displays options from endpoint, handles user selection`, () => {
   beforeEach(async () => {
-    jest.spyOn(useApiCall, 'useApiCall').mockImplementation(() => mockedOptions)
+    jest
+      .spyOn(useApiCall, 'useApiCall')
+      .mockImplementation(() => mockedOrderOptions)
     component = render(
-      <OptionsSelector<MockOptionsType>
+      <OptionsSelector<MockOrderOptionsType>
         handleSearch={handleSearchMock}
         optionsEndpoint="endpoint"
         value={undefined}
@@ -43,12 +43,12 @@ describe(`Gets and displays options, handles user selection`, () => {
   it('shows options populated from options endpoint', async () => {
     expect(dropDown.childElementCount).toBe(3)
     expect(dropDown.firstChild?.textContent).toBe('None')
-    expect(dropDown.lastChild?.textContent).toBe('Meow')
+    expect(dropDown.lastChild?.textContent).toBe('Worth')
   })
   it('Triggers search handler when user selects an option', async () => {
-    await waitFor(() => userEvent.click(within(dropDown).getByText(/Meow/i)))
+    await waitFor(() => userEvent.click(within(dropDown).getByText(/Worth/i)))
 
-    expect(handleSearchMock).toHaveBeenCalledWith('meow')
+    expect(handleSearchMock).toHaveBeenCalledWith('worth')
   })
   it('handles no selection', async () => {
     await waitFor(() => userEvent.click(within(dropDown).getByText(/None/i)))

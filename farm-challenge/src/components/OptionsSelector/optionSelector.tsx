@@ -20,9 +20,9 @@ const OptionsSelector = <T extends string>({
 
   return (
     <StyledFormInputWrapper>
-      <InputLabel id="input">{label}</InputLabel>
+      <InputLabel id={optionsEndpoint}>{label}</InputLabel>
       <Select
-        labelId="input"
+        labelId={optionsEndpoint}
         value={value ?? ''}
         label={label}
         onChange={({ target }) =>

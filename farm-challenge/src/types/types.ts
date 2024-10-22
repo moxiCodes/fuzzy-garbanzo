@@ -12,12 +12,6 @@ export type AnimalType = 'chicken' | 'cow' | 'goat' | 'pig' | 'sheep' | 'none'
 
 export type SortByOptions = 'age' | 'name' | 'worth' | 'none'
 
-export type QueryParamsType = {
-  name: string
-  type: AnimalType | ''
-  order: SortByOptions | ''
-}
-
 export type OptionInfo<T> = {
   type: T
   displayName: string

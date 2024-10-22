@@ -22,7 +22,5 @@ export const useApiCall = <T>(endpoint: string, params?: ParamsType) => {
 }
 
 const paramsAsSerializedDeps = (params: ParamsType | undefined) => {
-  return (
-    (params && Object.values(params).filter(value => value))?.toString() ?? ''
-  )
+  return (params && Object.values(params).filter(Boolean))?.toString() ?? ''
 }

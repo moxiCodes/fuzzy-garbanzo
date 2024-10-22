@@ -25,17 +25,16 @@ const App = () => {
     <StyledContainer>
       <Heading />
       <Container disableGutters>
-        {' '}
         <NameSearchField handleSearch={setName} />
         <OptionsSelector<AnimalType>
           optionsEndpoint="animal-types"
+          label="Choose type"
           value={type}
-          label="Choose type..."
           handleSearch={setType}
         />
         <OptionsSelector<SortByOptions>
           optionsEndpoint="animal-sort-options"
-          label="Choose order..."
+          label="Choose order"
           value={order}
           handleSearch={setOrder}
         />
